@@ -35,8 +35,8 @@ def group_by_test_type(data):
 def get_patient_data(id):
     if id == '123':
         data = []
-        with open("sample_data.csv", "r") as f:
-            reader = csv.reader(f, delimiter=",")
+        with open("sample_data.tsv", "r") as f:
+            reader = csv.reader(f, delimiter="\t")
             for i, line in enumerate(reader):
                 if i>1:
                     obj = {
@@ -52,12 +52,7 @@ def get_patient_data(id):
                             "Scale": line[8]
                         },
                         "Video": line[9],
-                        "Medicine": {
-                            "Generic Name": line[10],
-                            "Formulation": line[11],
-                            "Dosage": line[12],
-                            "Frequency": line[13]
-                        }
+                        "Medicine": line[10]
                     }
                     data.append(obj)
         # group by date
