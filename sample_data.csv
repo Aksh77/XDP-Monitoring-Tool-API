@@ -1,53 +1,53 @@
 Date,Scale,Test type,Test Parameter,Unit,Status,Score ,,,Video,Medicine,,,
 ,,,,,,Patient,Normal,Scale (0-5),,Generic Name,Formulation,Dosage,Frequency
-10 Jan 2022,UPDRS,Finger tapping - R,Interruption,per 10 sec,,3,0,2,,gen name,form,dos,3
-10 Jan 2022,UPDRS,Finger tapping - R,Frequency,per 10 sec,,20,30,2,,gen name,form,dos,3
-10 Jan 2022,UPDRS,Finger tapping - L,Interruption,per 10 sec,,2,0,1,,gen name,form,dos,3
-10 Jan 2022,UPDRS,Finger tapping - L,Frequency,per 10 sec,,20,30,1,,gen name,form,dos,3
-10 Jan 2022,UPDRS,facial expression,Eye blink frequency ,per 60 seconds,,15,25,2,,gen name,form,dos,3
-10 Jan 2022,UPDRS,facial expression,Lips parted distance ,cm,,0.5,0,2,,gen name,form,dos,3
-10 Jan 2022,UPDRS,hand movements - R,interruption ,per 10 sec,,2,0,3,,gen name,form,dos,3
-10 Jan 2022,UPDRS,hand movements - R,frequency,per 10 sec,,15,20,3,,gen name,form,dos,3
-10 Jan 2022,UPDRS,hand movements - R,amplitude,Percentage average,,88%,100,3,,gen name,form,dos,3
-10 Jan 2022,UPDRS,hand movements - L,interruption ,per 10 sec,,2,0,3,,gen name,form,dos,3
-10 Jan 2022,UPDRS,hand movements - L,frequency,per 10 sec,,15,20,3,,gen name,form,dos,3
-10 Jan 2022,UPDRS,hand movements - L,amplitude,Percentage average,,88%,100,3,,gen name,form,dos,3
-10 Jan 2022,UPDRS,tow tapping -R,interruption ,per 10 seconds,,2,0,2,,gen name,form,dos,3
-10 Jan 2022,UPDRS,tow tapping - R,frequency,per 10 seconds,,16,20,2,,gen name,form,dos,3
-10 Jan 2022,UPDRS,tow tapping - R,amplitude (toe to ground),cm average,,4,6,2,,gen name,form,dos,3
-10 Jan 2022,UPDRS,tow tapping - L,interruption ,per 10 seconds,,2,0,2,,gen name,form,dos,3
-10 Jan 2022,UPDRS,tow tapping - L,frequency,per 10 seconds,,16,20,2,,gen name,form,dos,3
-10 Jan 2022,UPDRS,tow tapping - L,amplitude (toe to ground),cm average,,4,6,2,,gen name,form,dos,3
-15 Feb 2022,UPDRS,Pronation supination - R,interruption ,per 10 seconds,,1,0,1,,gen name,form,dos,3
-15 Feb 2022,UPDRS,Pronation supination - R,frequency,per 10 seconds,,17,20,1,,gen name,form,dos,3
-15 Feb 2022,UPDRS,Pronation supination - R,amplitude (movement angle covered),degrees moved average,,175,180,1,,gen name,form,dos,3
-15 Feb 2022,UPDRS,Pronation supination - L,interruption ,per 10 seconds,,1,0,1,,gen name,form,dos,3
-15 Feb 2022,UPDRS,Pronation supination - L,frequency,per 10 seconds,,17,20,1,,gen name,form,dos,3
-15 Feb 2022,UPDRS,Pronation supination - L,amplitude (movement angle covered),degrees moved average,,165,180,1,,gen name,form,dos,3
-15 Feb 2022,UPDRS,Leg agility - R,interruption ,per 10 seconds,,2,0,1,,gen name,form,dos,3
-15 Feb 2022,UPDRS,Leg agility - R,frequency,per 10 seconds,,8,10,1,,gen name,form,dos,3
-15 Feb 2022,UPDRS,Leg agility - R,amplitude (foot to ground),cm average,,20,30,1,,gen name,form,dos,3
-15 Feb 2022,UPDRS,Leg agility - L,interruption ,per 10 seconds,,2,0,1,,gen name,form,dos,3
-15 Feb 2022,UPDRS,Leg agility - L,frequency,per 10 seconds,,8,10,1,,gen name,form,dos,3
-15 Feb 2022,UPDRS,Leg agility - L,amplitude (foot to ground),cm average,,20,30,1,,gen name,form,dos,3
-15 Feb 2022,UPDRS,Gait,Step time average (steps taken per 10 seconds),10 seconds,,4,6,1,,gen name,form,dos,3
-15 Feb 2022,UPDRS,Gait,swing time,per second ,,0.4,0.5,1,,gen name,form,dos,3
-15 Feb 2022,UPDRS,Gait,step distance,meter,,0.56,0.6,1,,gen name,form,dos,3
-15 Feb 2022,UPDRS,Gait,freezes,per 10 seconds,,1,0,1,,gen name,form,dos,3
-15 Feb 2022,UPDRS,posture - after standing,craniovertebral angle,degrees average over 3 seconds ,,110,90-105,1,,gen name,form,dos,3
-15 Feb 2022,UPDRS,posture - after standing,scoliosis angle,degrees average over 3 seconds ,,10,0,1,,gen name,form,dos,3
-15 Feb 2022,UPDRS,posture - after standing,kyphosis angle,degrees average over 3 seconds ,,15,0,1,,gen name,form,dos,3
-15 Feb 2022,UPDRS,posture - sitting ,craniovertebral angle,degrees average over 3 seconds ,,100,90-105,0,,gen name,form,dos,3
-15 Feb 2022,UPDRS,posture - sitting ,scoliosis angle,degrees average over 3 seconds ,,13,0,1,,gen name,form,dos,3
-15 Feb 2022,UPDRS,posture - sitting ,kyphosis angle,degrees average over 3 seconds ,,10,0,1,,gen name,form,dos,3
-15 Feb 2022,UPDRS,tremor - postural - R,amplitude average over 10 second,mm,,5,0,1,,gen name,form,dos,3
-15 Feb 2022,UPDRS,tremor - postural - L,amplitude average over 10 second,mm,,15,0,2,,gen name,form,dos,3
-15 Feb 2022,UPDRS,tremor - Kinetic - R,amplitude average over 10 second,mm,,20,0,2,,gen name,form,dos,3
-15 Feb 2022,UPDRS,tremor - Kinetic - L,amplitude average over 10 second,mm,,18,0,2,,gen name,form,dos,3
-15 Feb 2022,UPDRS,rest tremor - RA,amplitude average over 10 second,mm,,8,0,1,,gen name,form,dos,3
-15 Feb 2022,UPDRS,rest tremor - LA,amplitude average over 10 second,mm,,7,0,1,,gen name,form,dos,3
-15 Feb 2022,UPDRS,rest tremor - LIP,amplitude average over 10 second,mm,,4,0,1,,gen name,form,dos,3
-15 Feb 2022,UPDRS,rest tremor - JAW,amplitude average over 10 second,mm,,5,0,1,,gen name,form,dos,3
-15 Feb 2022,UPDRS,Tremor spiral quantification ,correlation,%,,30,0,2,,gen name,form,dos,3
-15 Feb 2022,UPDRS,speech,cepstral peak performance,ratio,,69,70.1-71,2,,gen name,form,dos,3
-15 Feb 2022,UPDRS,speech,shimmer,ratio ,,0.1,0.25,2,,gen name,form,dos,3
+10 Jan 2022,UPDRS,Finger tapping - R,Interruption,per 10 sec,Ready,3,0,2,../../assets/videos/placeholder_1.mov,gen name,form,dos,3
+10 Jan 2022,UPDRS,Finger tapping - R,Frequency,per 10 sec,Ready,20,30,2,../../assets/videos/placeholder_1.mov,gen name,form,dos,3
+10 Jan 2022,UPDRS,Finger tapping - L,Interruption,per 10 sec,Submitted for analysis,2,0,1,../../assets/videos/placeholder_1.mov,gen name,form,dos,3
+10 Jan 2022,UPDRS,Finger tapping - L,Frequency,per 10 sec,Submitted for analysis,20,30,1,../../assets/videos/placeholder_1.mov,gen name,form,dos,3
+10 Jan 2022,UPDRS,facial expression,Eye blink frequency ,per 60 seconds,Not collected,15,25,2,../../assets/videos/placeholder_1.mov,gen name,form,dos,3
+10 Jan 2022,UPDRS,facial expression,Lips parted distance ,cm,Not collected,0.5,0,2,../../assets/videos/placeholder_1.mov,gen name,form,dos,3
+10 Jan 2022,UPDRS,hand movements - R,interruption ,per 10 sec,Ready,2,0,3,../../assets/videos/placeholder_1.mov,gen name,form,dos,3
+10 Jan 2022,UPDRS,hand movements - R,frequency,per 10 sec,Ready,15,20,3,../../assets/videos/placeholder_1.mov,gen name,form,dos,3
+10 Jan 2022,UPDRS,hand movements - R,amplitude,Percentage average,Ready,88%,100,3,../../assets/videos/placeholder_1.mov,gen name,form,dos,3
+10 Jan 2022,UPDRS,hand movements - L,interruption ,per 10 sec,Ready,2,0,3,../../assets/videos/placeholder_1.mov,gen name,form,dos,3
+10 Jan 2022,UPDRS,hand movements - L,frequency,per 10 sec,Ready,15,20,3,../../assets/videos/placeholder_1.mov,gen name,form,dos,3
+10 Jan 2022,UPDRS,hand movements - L,amplitude,Percentage average,Ready,88%,100,3,../../assets/videos/placeholder_1.mov,gen name,form,dos,3
+10 Jan 2022,UPDRS,tow tapping -R,interruption ,per 10 seconds,Ready,2,0,2,../../assets/videos/placeholder_1.mov,gen name,form,dos,3
+10 Jan 2022,UPDRS,tow tapping - R,frequency,per 10 seconds,Ready,16,20,2,../../assets/videos/placeholder_1.mov,gen name,form,dos,3
+10 Jan 2022,UPDRS,tow tapping - R,amplitude (toe to ground),cm average,Ready,4,6,2,../../assets/videos/placeholder_1.mov,gen name,form,dos,3
+10 Jan 2022,UPDRS,tow tapping - L,interruption ,per 10 seconds,Ready,2,0,2,../../assets/videos/placeholder_1.mov,gen name,form,dos,3
+10 Jan 2022,UPDRS,tow tapping - L,frequency,per 10 seconds,Ready,16,20,2,../../assets/videos/placeholder_1.mov,gen name,form,dos,3
+10 Jan 2022,UPDRS,tow tapping - L,amplitude (toe to ground),cm average,Ready,4,6,2,../../assets/videos/placeholder_1.mov,gen name,form,dos,3
+15 Feb 2022,UPDRS,Pronation supination - R,interruption ,per 10 seconds,Ready,1,0,1,../../assets/videos/placeholder_1.mov,gen name,form,dos,3
+15 Feb 2022,UPDRS,Pronation supination - R,frequency,per 10 seconds,Ready,17,20,1,../../assets/videos/placeholder_1.mov,gen name,form,dos,3
+15 Feb 2022,UPDRS,Pronation supination - R,amplitude (movement angle covered),degrees moved average,Ready,175,180,1,../../assets/videos/placeholder_1.mov,gen name,form,dos,3
+15 Feb 2022,UPDRS,Pronation supination - L,interruption ,per 10 seconds,Ready,1,0,1,../../assets/videos/placeholder_1.mov,gen name,form,dos,3
+15 Feb 2022,UPDRS,Pronation supination - L,frequency,per 10 seconds,Ready,17,20,1,../../assets/videos/placeholder_1.mov,gen name,form,dos,3
+15 Feb 2022,UPDRS,Pronation supination - L,amplitude (movement angle covered),degrees moved average,Ready,165,180,1,../../assets/videos/placeholder_1.mov,gen name,form,dos,3
+15 Feb 2022,UPDRS,Leg agility - R,interruption ,per 10 seconds,Ready,2,0,1,../../assets/videos/placeholder_1.mov,gen name,form,dos,3
+15 Feb 2022,UPDRS,Leg agility - R,frequency,per 10 seconds,Ready,8,10,1,../../assets/videos/placeholder_1.mov,gen name,form,dos,3
+15 Feb 2022,UPDRS,Leg agility - R,amplitude (foot to ground),cm average,Ready,20,30,1,../../assets/videos/placeholder_1.mov,gen name,form,dos,3
+15 Feb 2022,UPDRS,Leg agility - L,interruption ,per 10 seconds,Ready,2,0,1,../../assets/videos/placeholder_1.mov,gen name,form,dos,3
+15 Feb 2022,UPDRS,Leg agility - L,frequency,per 10 seconds,Ready,8,10,1,../../assets/videos/placeholder_1.mov,gen name,form,dos,3
+15 Feb 2022,UPDRS,Leg agility - L,amplitude (foot to ground),cm average,Ready,20,30,1,../../assets/videos/placeholder_1.mov,gen name,form,dos,3
+15 Feb 2022,UPDRS,Gait,Step time average (steps taken per 10 seconds),10 seconds,Ready,4,6,1,../../assets/videos/placeholder_1.mov,gen name,form,dos,3
+15 Feb 2022,UPDRS,Gait,swing time,per second ,Ready,0.4,0.5,1,../../assets/videos/placeholder_1.mov,gen name,form,dos,3
+15 Feb 2022,UPDRS,Gait,step distance,meter,Ready,0.56,0.6,1,../../assets/videos/placeholder_1.mov,gen name,form,dos,3
+15 Feb 2022,UPDRS,Gait,freezes,per 10 seconds,Ready,1,0,1,../../assets/videos/placeholder_1.mov,gen name,form,dos,3
+15 Feb 2022,UPDRS,posture - after standing,craniovertebral angle,degrees average over 3 seconds ,Ready,110,90-105,1,../../assets/videos/placeholder_1.mov,gen name,form,dos,3
+15 Feb 2022,UPDRS,posture - after standing,scoliosis angle,degrees average over 3 seconds ,Ready,10,0,1,../../assets/videos/placeholder_1.mov,gen name,form,dos,3
+15 Feb 2022,UPDRS,posture - after standing,kyphosis angle,degrees average over 3 seconds ,Ready,15,0,1,../../assets/videos/placeholder_1.mov,gen name,form,dos,3
+15 Feb 2022,UPDRS,posture - sitting ,craniovertebral angle,degrees average over 3 seconds ,Ready,100,90-105,0,../../assets/videos/placeholder_1.mov,gen name,form,dos,3
+15 Feb 2022,UPDRS,posture - sitting ,scoliosis angle,degrees average over 3 seconds ,Ready,13,0,1,../../assets/videos/placeholder_1.mov,gen name,form,dos,3
+15 Feb 2022,UPDRS,posture - sitting ,kyphosis angle,degrees average over 3 seconds ,Ready,10,0,1,../../assets/videos/placeholder_1.mov,gen name,form,dos,3
+15 Feb 2022,UPDRS,tremor - postural - R,amplitude average over 10 second,mm,Ready,5,0,1,../../assets/videos/placeholder_1.mov,gen name,form,dos,3
+15 Feb 2022,UPDRS,tremor - postural - L,amplitude average over 10 second,mm,Ready,15,0,2,../../assets/videos/placeholder_1.mov,gen name,form,dos,3
+15 Feb 2022,UPDRS,tremor - Kinetic - R,amplitude average over 10 second,mm,Ready,20,0,2,../../assets/videos/placeholder_1.mov,gen name,form,dos,3
+15 Feb 2022,UPDRS,tremor - Kinetic - L,amplitude average over 10 second,mm,Ready,18,0,2,../../assets/videos/placeholder_1.mov,gen name,form,dos,3
+15 Feb 2022,UPDRS,rest tremor - RA,amplitude average over 10 second,mm,Ready,8,0,1,../../assets/videos/placeholder_1.mov,gen name,form,dos,3
+15 Feb 2022,UPDRS,rest tremor - LA,amplitude average over 10 second,mm,Ready,7,0,1,../../assets/videos/placeholder_1.mov,gen name,form,dos,3
+15 Feb 2022,UPDRS,rest tremor - LIP,amplitude average over 10 second,mm,Ready,4,0,1,../../assets/videos/placeholder_1.mov,gen name,form,dos,3
+15 Feb 2022,UPDRS,rest tremor - JAW,amplitude average over 10 second,mm,Ready,5,0,1,../../assets/videos/placeholder_1.mov,gen name,form,dos,3
+15 Feb 2022,UPDRS,Tremor spiral quantification ,correlation,%,Ready,30,0,2,../../assets/videos/placeholder_1.mov,gen name,form,dos,3
+15 Feb 2022,UPDRS,speech,cepstral peak performance,ratio,Ready,69,70.1-71,2,../../assets/videos/placeholder_1.mov,gen name,form,dos,3
+15 Feb 2022,UPDRS,speech,shimmer,ratio ,Ready,0.1,0.25,2,../../assets/videos/placeholder_1.mov,gen name,form,dos,3
