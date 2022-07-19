@@ -1,447 +1,447 @@
 Date	Scale	Test type	Test Parameter	Unit	Status	Score 			Video	Medicine
 						Patient	Normal	Scale (0-5)		
-10 Jan 2022	UPDRS	Finger tapping - R	Interruption	per 10 sec	Ready	3	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	UPDRS	Finger tapping - R	Frequency	per 10 sec	Ready	20	30	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	UPDRS	Finger tapping - L	Interruption	per 10 sec	Ready	2	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	UPDRS	Finger tapping - L	Frequency	per 10 sec	Ready	20	30	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	UPDRS	facial expression	Eye blink frequency 	per 60 seconds	Ready	15	25	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	UPDRS	facial expression	Lips parted distance 	cm	Ready	0.5	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	UPDRS	hand movements - R	interruption 	per 10 sec	Ready	2	0	3		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	UPDRS	hand movements - R	frequency	per 10 sec	Ready	15	20	3		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	UPDRS	hand movements - R	amplitude	Percentage average	Ready	88%	100	3		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	UPDRS	hand movements - L	interruption 	per 10 sec	Ready	2	0	3		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	UPDRS	hand movements - L	frequency	per 10 sec	Ready	15	20	3		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	UPDRS	hand movements - L	amplitude	Percentage average	Ready	88%	100	3		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	UPDRS	tow tapping -R	interruption 	per 10 seconds	Ready	2	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	UPDRS	tow tapping - R	frequency	per 10 seconds	Ready	16	20	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	UPDRS	tow tapping - R	amplitude (toe to ground)	cm average	Ready	4	6	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	UPDRS	tow tapping - L	interruption 	per 10 seconds	Ready	2	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	UPDRS	tow tapping - L	frequency	per 10 seconds	Ready	16	20	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	UPDRS	tow tapping - L	amplitude (toe to ground)	cm average	Ready	4	6	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	UPDRS	Pronation supination - R	interruption 	per 10 seconds	Ready	1	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	UPDRS	Pronation supination - R	frequency	per 10 seconds	Ready	17	20	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	UPDRS	Pronation supination - R	amplitude (movement angle covered)	degrees moved average	Ready	175	180	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	UPDRS	Pronation supination - L	interruption 	per 10 seconds	Ready	1	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	UPDRS	Pronation supination - L	frequency	per 10 seconds	Ready	17	20	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	UPDRS	Pronation supination - L	amplitude (movement angle covered)	degrees moved average	Ready	165	180	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	UPDRS	Leg agility - R	interruption 	per 10 seconds	Ready	2	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	UPDRS	Leg agility - R	frequency	per 10 seconds	Ready	8	10	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	UPDRS	Leg agility - R	amplitude (foot to ground)	cm average	Ready	20	30	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	UPDRS	Leg agility - L	interruption 	per 10 seconds	Ready	2	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	UPDRS	Leg agility - L	frequency	per 10 seconds	Ready	8	10	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	UPDRS	Leg agility - L	amplitude (foot to ground)	cm average	Ready	20	30	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	UPDRS	Gait	Step time average (steps taken per 10 seconds)	10 seconds	Ready	4	6	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	UPDRS	Gait	swing time	per second 	Ready	0.4	0.5	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	UPDRS	Gait	step distance	meter	Ready	0.56	0.6	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	UPDRS	Gait	freezes	per 10 seconds	Ready	1	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	UPDRS	posture - after standing	craniovertebral angle	degrees average over 3 seconds 	Ready	110	90-105	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	UPDRS	posture - after standing	scoliosis angle	degrees average over 3 seconds 	Ready	10	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	UPDRS	posture - after standing	kyphosis angle	degrees average over 3 seconds 	Ready	15	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	UPDRS	posture - sitting 	craniovertebral angle	degrees average over 3 seconds 	Ready	100	90-105	0		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	UPDRS	posture - sitting 	scoliosis angle	degrees average over 3 seconds 	Ready	13	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	UPDRS	posture - sitting 	kyphosis angle	degrees average over 3 seconds 	Ready	10	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	UPDRS	tremor - postural - R	amplitude average over 10 second	mm	Ready	5	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	UPDRS	tremor - postural - L	amplitude average over 10 second	mm	Ready	15	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	UPDRS	tremor - Kinetic - R	amplitude average over 10 second	mm	Ready	20	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	UPDRS	tremor - Kinetic - L	amplitude average over 10 second	mm	Ready	18	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	UPDRS	rest tremor - RA	amplitude average over 10 second	mm	Ready	8	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	UPDRS	rest tremor - LA	amplitude average over 10 second	mm	Ready	7	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	UPDRS	rest tremor - LIP	amplitude average over 10 second	mm	Ready	4	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	UPDRS	rest tremor - JAW	amplitude average over 10 second	mm	Ready	5	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	UPDRS	Tremor spiral quantification 	correlation	%	Ready	30	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	UPDRS	speech	cepstral peak performance	ratio	Ready	69	70.1-71	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	UPDRS	speech	shimmer	ratio 	Ready	0.1	0.25	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	BFM (BSS)	Eye	type of spasm (closure distance mm X duration of spasm) 	average	Ready	9	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	BFM (BSS)	Eye 	Opening apraxia	present (2) or absent (0)	Ready	2	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	BFM (BSS)	Eye	Spasm during writing	present (1) or absent (0)	Ready	1	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	BFM (BSS)	Eye	Duration of complete spasm at rest	sec	Ready	3	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	BFM (BSS)	Eye	frequency of complete spasm at rest	number per 120 seconds	Ready	5	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	BFM (BSS)	Eye	frequency of partial spasm at rest	number per 120 seconds	Ready	4	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	BFM (BSS)	Eye	blinking frequency at rest	number per 120 seconds	Ready	20	15	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	BFM (OMDRS)	Mouth	maximal mouth opening	mm	Ready	24	45	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	BFM (OMDRS)	Mouth	maximal mouth deviation 	mm	Ready	3	6	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	BFM (OMDRS)	Mouth	maximal mouth protrusion	mm	Ready	2	5	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	BFM (OMDRS)	Mouth	involuntary mouth opening	mm	Ready	5	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	BFM (OMDRS)	Mouth	involuntary mouth deviation	mm	Ready	2	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	BFM (OMDRS)	Mouth	involntary mouth protrusion 	mm	Ready	2	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	BFM (TWSTRS)	Neck	rotation at rest	degrees avg over 10 seconds	Ready	25	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	BFM (TWSTRS)	Neck	Laterocollis at rest(excluding shoulder elevation)	degrees avg over 10 seconds	Ready	17	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	BFM (TWSTRS)	Neck	Anterocollis at rest	degrees avg over 10 seconds	Ready	15	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	BFM (TWSTRS)	Neck	retrocollis at rest	degrees avg over 10 seconds	Ready	18	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	BFM (TWSTRS)	Neck	Lateral shift at rest	present or absent	Ready	present	absent	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	BFM (TWSTRS)	Neck	Sagittal shift at rest	present or absent	Ready	present	absent	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	BFM (TWSTRS)	Neck	rotation sensoy trick 	degrees avg over 10 seconds	Ready	25	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	BFM (TWSTRS)	Neck	Laterocollis sensory trick(excluding shoulder elevation)	degrees avg over 10 seconds	Ready	10	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	BFM (TWSTRS)	Neck	Anterocollis sensory trick	degrees avg over 10 seconds	Ready	10	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	BFM (TWSTRS)	Neck	retrocollis sensory trick	degrees avg over 10 seconds	Ready	7	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	BFM (TWSTRS)	Neck	max time straight position maintained	sec	Ready	40	100	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	BFM	Trunk	antero posterior Angle at hip	degrees avg over 10 seconds	Ready	7	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	BFM	Trunk	antero-posterior Angle at shoulder	degrees avg over 10 seconds	Ready	4	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	BFM	Trunk	lateral deviation angle at hip	degrees avg over 10 seconds	Ready	5	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	BFM	Trunk	lateral deviation angle at shoulders	degrees avg over 10 seconds	Ready	2	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	BFM	Trunk	movement + antero posterior Angle at hip	degrees avg over 10 seconds	Ready	5	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	BFM	Trunk	movement + antero-posterior Angle at shoulder	degrees avg over 10 seconds	Ready	4	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	BFM	Trunk	movement + lateral deviation angle at hip	degrees avg over 10 seconds	Ready	5	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	BFM	Trunk	movement + lateral deviation angle at shoulders	degrees avg over 10 seconds	Ready	2	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	BFM	Leg - L	knee angle at rest sitting	degrees avg over 10 seconds	Ready	60	90	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	BFM	Leg - L	Ankle inversion-eversion angle at rest sitting	degrees avg over 10 seconds	Ready	10	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	BFM	Leg - L	Ankle Dorsiflexion angle at rest sitting	degrees avg over 10 seconds	Ready	65	90	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	BFM	Leg - R	knee angle at rest sitting	degrees avg over 10 seconds	Ready	55	90	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	BFM	Leg - R	Ankle inversion-eversion angle at rest sitting	degrees avg over 10 seconds	Ready	10	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-10 Jan 2022	BFM	Leg - R	Ankle Dorsiflexion angle at rest sitting	degrees avg over 10 seconds	Ready	60	90	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	UPDRS	Finger tapping - R	Interruption	per 10 sec	Ready	3	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	UPDRS	Finger tapping - R	Frequency	per 10 sec	Ready	20	30	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	UPDRS	Finger tapping - L	Interruption	per 10 sec	Ready	2	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	UPDRS	Finger tapping - L	Frequency	per 10 sec	Ready	20	30	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	UPDRS	facial expression	Eye blink frequency 	per 60 seconds	Ready	15	25	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	UPDRS	facial expression	Lips parted distance 	cm	Ready	0.5	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	UPDRS	hand movements - R	interruption 	per 10 sec	Ready	2	0	3		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	UPDRS	hand movements - R	frequency	per 10 sec	Ready	15	20	3		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	UPDRS	hand movements - R	amplitude	Percentage average	Ready	88%	100	3		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	UPDRS	hand movements - L	interruption 	per 10 sec	Ready	2	0	3		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	UPDRS	hand movements - L	frequency	per 10 sec	Ready	15	20	3		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	UPDRS	hand movements - L	amplitude	Percentage average	Ready	88%	100	3		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	UPDRS	tow tapping -R	interruption 	per 10 seconds	Ready	2	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	UPDRS	tow tapping - R	frequency	per 10 seconds	Ready	16	20	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	UPDRS	tow tapping - R	amplitude (toe to ground)	cm average	Ready	4	6	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	UPDRS	tow tapping - L	interruption 	per 10 seconds	Ready	2	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	UPDRS	tow tapping - L	frequency	per 10 seconds	Ready	16	20	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	UPDRS	tow tapping - L	amplitude (toe to ground)	cm average	Ready	4	6	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	UPDRS	Pronation supination - R	interruption 	per 10 seconds	Ready	1	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	UPDRS	Pronation supination - R	frequency	per 10 seconds	Ready	17	20	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	UPDRS	Pronation supination - R	amplitude (movement angle covered)	degrees moved average	Ready	175	180	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	UPDRS	Pronation supination - L	interruption 	per 10 seconds	Ready	1	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	UPDRS	Pronation supination - L	frequency	per 10 seconds	Ready	17	20	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	UPDRS	Pronation supination - L	amplitude (movement angle covered)	degrees moved average	Ready	165	180	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	UPDRS	Leg agility - R	interruption 	per 10 seconds	Ready	2	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	UPDRS	Leg agility - R	frequency	per 10 seconds	Ready	8	10	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	UPDRS	Leg agility - R	amplitude (foot to ground)	cm average	Ready	20	30	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	UPDRS	Leg agility - L	interruption 	per 10 seconds	Ready	2	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	UPDRS	Leg agility - L	frequency	per 10 seconds	Ready	8	10	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	UPDRS	Leg agility - L	amplitude (foot to ground)	cm average	Ready	20	30	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	UPDRS	Gait	Step time average (steps taken per 10 seconds)	10 seconds	Ready	4	6	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	UPDRS	Gait	swing time	per second 	Ready	0.4	0.5	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	UPDRS	Gait	step distance	meter	Ready	0.56	0.6	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	UPDRS	Gait	freezes	per 10 seconds	Ready	1	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	UPDRS	posture - after standing	craniovertebral angle	degrees average over 3 seconds 	Ready	110	90-105	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	UPDRS	posture - after standing	scoliosis angle	degrees average over 3 seconds 	Ready	10	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	UPDRS	posture - after standing	kyphosis angle	degrees average over 3 seconds 	Ready	15	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	UPDRS	posture - sitting 	craniovertebral angle	degrees average over 3 seconds 	Ready	100	90-105	0		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	UPDRS	posture - sitting 	scoliosis angle	degrees average over 3 seconds 	Ready	13	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	UPDRS	posture - sitting 	kyphosis angle	degrees average over 3 seconds 	Ready	10	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	UPDRS	tremor - postural - R	amplitude average over 10 second	mm	Ready	5	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	UPDRS	tremor - postural - L	amplitude average over 10 second	mm	Ready	15	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	UPDRS	tremor - Kinetic - R	amplitude average over 10 second	mm	Ready	20	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	UPDRS	tremor - Kinetic - L	amplitude average over 10 second	mm	Ready	18	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	UPDRS	rest tremor - RA	amplitude average over 10 second	mm	Ready	8	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	UPDRS	rest tremor - LA	amplitude average over 10 second	mm	Ready	7	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	UPDRS	rest tremor - LIP	amplitude average over 10 second	mm	Ready	4	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	UPDRS	rest tremor - JAW	amplitude average over 10 second	mm	Ready	5	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	UPDRS	Tremor spiral quantification 	correlation	%	Ready	30	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	UPDRS	speech	cepstral peak performance	ratio	Ready	69	70.1-71	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	UPDRS	speech	shimmer	ratio 	Ready	0.1	0.25	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	BFM (BSS)	Eye	type of spasm (closure distance mm X duration of spasm) 	average	Ready	9	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	BFM (BSS)	Eye 	Opening apraxia	present (2) or absent (0)	Ready	2	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	BFM (BSS)	Eye	Spasm during writing	present (1) or absent (0)	Ready	1	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	BFM (BSS)	Eye	Duration of complete spasm at rest	sec	Ready	3	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	BFM (BSS)	Eye	frequency of complete spasm at rest	number per 120 seconds	Ready	5	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	BFM (BSS)	Eye	frequency of partial spasm at rest	number per 120 seconds	Ready	4	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	BFM (BSS)	Eye	blinking frequency at rest	number per 120 seconds	Ready	20	15	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	BFM (OMDRS)	Mouth	maximal mouth opening	mm	Ready	24	45	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	BFM (OMDRS)	Mouth	maximal mouth deviation 	mm	Ready	3	6	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	BFM (OMDRS)	Mouth	maximal mouth protrusion	mm	Ready	2	5	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	BFM (OMDRS)	Mouth	involuntary mouth opening	mm	Ready	5	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	BFM (OMDRS)	Mouth	involuntary mouth deviation	mm	Ready	2	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	BFM (OMDRS)	Mouth	involntary mouth protrusion 	mm	Ready	2	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	BFM (TWSTRS)	Neck	rotation at rest	degrees avg over 10 seconds	Ready	25	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	BFM (TWSTRS)	Neck	Laterocollis at rest(excluding shoulder elevation)	degrees avg over 10 seconds	Ready	17	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	BFM (TWSTRS)	Neck	Anterocollis at rest	degrees avg over 10 seconds	Ready	15	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	BFM (TWSTRS)	Neck	retrocollis at rest	degrees avg over 10 seconds	Ready	18	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	BFM (TWSTRS)	Neck	Lateral shift at rest	present or absent	Ready	present	absent	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	BFM (TWSTRS)	Neck	Sagittal shift at rest	present or absent	Ready	present	absent	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	BFM (TWSTRS)	Neck	rotation sensoy trick 	degrees avg over 10 seconds	Ready	25	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	BFM (TWSTRS)	Neck	Laterocollis sensory trick(excluding shoulder elevation)	degrees avg over 10 seconds	Ready	10	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	BFM (TWSTRS)	Neck	Anterocollis sensory trick	degrees avg over 10 seconds	Ready	10	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	BFM (TWSTRS)	Neck	retrocollis sensory trick	degrees avg over 10 seconds	Ready	7	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	BFM (TWSTRS)	Neck	max time straight position maintained	sec	Ready	40	100	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	BFM	Trunk	antero posterior Angle at hip	degrees avg over 10 seconds	Ready	7	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	BFM	Trunk	antero-posterior Angle at shoulder	degrees avg over 10 seconds	Ready	4	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	BFM	Trunk	lateral deviation angle at hip	degrees avg over 10 seconds	Ready	5	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	BFM	Trunk	lateral deviation angle at shoulders	degrees avg over 10 seconds	Ready	2	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	BFM	Trunk	movement + antero posterior Angle at hip	degrees avg over 10 seconds	Ready	5	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	BFM	Trunk	movement + antero-posterior Angle at shoulder	degrees avg over 10 seconds	Ready	4	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	BFM	Trunk	movement + lateral deviation angle at hip	degrees avg over 10 seconds	Ready	5	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	BFM	Trunk	movement + lateral deviation angle at shoulders	degrees avg over 10 seconds	Ready	2	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	BFM	Leg - L	knee angle at rest sitting	degrees avg over 10 seconds	Ready	60	90	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	BFM	Leg - L	Ankle inversion-eversion angle at rest sitting	degrees avg over 10 seconds	Ready	10	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	BFM	Leg - L	Ankle Dorsiflexion angle at rest sitting	degrees avg over 10 seconds	Ready	65	90	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	BFM	Leg - R	knee angle at rest sitting	degrees avg over 10 seconds	Ready	55	90	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	BFM	Leg - R	Ankle inversion-eversion angle at rest sitting	degrees avg over 10 seconds	Ready	10	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-19 Apr 2022	BFM	Leg - R	Ankle Dorsiflexion angle at rest sitting	degrees avg over 10 seconds	Ready	60	90	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	UPDRS	Finger tapping - R	Interruption	per 10 sec	Ready	3	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	UPDRS	Finger tapping - R	Frequency	per 10 sec	Ready	20	30	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	UPDRS	Finger tapping - L	Interruption	per 10 sec	Ready	2	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	UPDRS	Finger tapping - L	Frequency	per 10 sec	Ready	20	30	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	UPDRS	facial expression	Eye blink frequency 	per 60 seconds	Ready	15	25	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	UPDRS	facial expression	Lips parted distance 	cm	Ready	0.5	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	UPDRS	hand movements - R	interruption 	per 10 sec	Ready	2	0	3		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	UPDRS	hand movements - R	frequency	per 10 sec	Ready	15	20	3		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	UPDRS	hand movements - R	amplitude	Percentage average	Ready	88%	100	3		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	UPDRS	hand movements - L	interruption 	per 10 sec	Ready	2	0	3		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	UPDRS	hand movements - L	frequency	per 10 sec	Ready	15	20	3		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	UPDRS	hand movements - L	amplitude	Percentage average	Ready	88%	100	3		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	UPDRS	tow tapping -R	interruption 	per 10 seconds	Ready	2	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	UPDRS	tow tapping - R	frequency	per 10 seconds	Ready	16	20	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	UPDRS	tow tapping - R	amplitude (toe to ground)	cm average	Ready	4	6	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	UPDRS	tow tapping - L	interruption 	per 10 seconds	Ready	2	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	UPDRS	tow tapping - L	frequency	per 10 seconds	Ready	16	20	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	UPDRS	tow tapping - L	amplitude (toe to ground)	cm average	Ready	4	6	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	UPDRS	Pronation supination - R	interruption 	per 10 seconds	Ready	1	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	UPDRS	Pronation supination - R	frequency	per 10 seconds	Ready	17	20	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	UPDRS	Pronation supination - R	amplitude (movement angle covered)	degrees moved average	Ready	175	180	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	UPDRS	Pronation supination - L	interruption 	per 10 seconds	Ready	1	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	UPDRS	Pronation supination - L	frequency	per 10 seconds	Ready	17	20	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	UPDRS	Pronation supination - L	amplitude (movement angle covered)	degrees moved average	Ready	165	180	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	UPDRS	Leg agility - R	interruption 	per 10 seconds	Ready	2	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	UPDRS	Leg agility - R	frequency	per 10 seconds	Ready	8	10	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	UPDRS	Leg agility - R	amplitude (foot to ground)	cm average	Ready	20	30	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	UPDRS	Leg agility - L	interruption 	per 10 seconds	Ready	2	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	UPDRS	Leg agility - L	frequency	per 10 seconds	Ready	8	10	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	UPDRS	Leg agility - L	amplitude (foot to ground)	cm average	Ready	20	30	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	UPDRS	Gait	Step time average (steps taken per 10 seconds)	10 seconds	Ready	4	6	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	UPDRS	Gait	swing time	per second 	Ready	0.4	0.5	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	UPDRS	Gait	step distance	meter	Ready	0.56	0.6	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	UPDRS	Gait	freezes	per 10 seconds	Ready	1	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	UPDRS	posture - after standing	craniovertebral angle	degrees average over 3 seconds 	Ready	110	90-105	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	UPDRS	posture - after standing	scoliosis angle	degrees average over 3 seconds 	Ready	10	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	UPDRS	posture - after standing	kyphosis angle	degrees average over 3 seconds 	Ready	15	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	UPDRS	posture - sitting 	craniovertebral angle	degrees average over 3 seconds 	Ready	100	90-105	0		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	UPDRS	posture - sitting 	scoliosis angle	degrees average over 3 seconds 	Ready	13	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	UPDRS	posture - sitting 	kyphosis angle	degrees average over 3 seconds 	Ready	10	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	UPDRS	tremor - postural - R	amplitude average over 10 second	mm	Ready	5	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	UPDRS	tremor - postural - L	amplitude average over 10 second	mm	Ready	15	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	UPDRS	tremor - Kinetic - R	amplitude average over 10 second	mm	Ready	20	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	UPDRS	tremor - Kinetic - L	amplitude average over 10 second	mm	Ready	18	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	UPDRS	rest tremor - RA	amplitude average over 10 second	mm	Ready	8	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	UPDRS	rest tremor - LA	amplitude average over 10 second	mm	Ready	7	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	UPDRS	rest tremor - LIP	amplitude average over 10 second	mm	Ready	4	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	UPDRS	rest tremor - JAW	amplitude average over 10 second	mm	Ready	5	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	UPDRS	Tremor spiral quantification 	correlation	%	Ready	30	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	UPDRS	speech	cepstral peak performance	ratio	Ready	69	70.1-71	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	UPDRS	speech	shimmer	ratio 	Ready	0.1	0.25	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	BFM (BSS)	Eye	type of spasm (closure distance mm X duration of spasm) 	average	Ready	9	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	BFM (BSS)	Eye 	Opening apraxia	present (2) or absent (0)	Ready	2	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	BFM (BSS)	Eye	Spasm during writing	present (1) or absent (0)	Ready	1	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	BFM (BSS)	Eye	Duration of complete spasm at rest	sec	Ready	3	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	BFM (BSS)	Eye	frequency of complete spasm at rest	number per 120 seconds	Ready	5	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	BFM (BSS)	Eye	frequency of partial spasm at rest	number per 120 seconds	Ready	4	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	BFM (BSS)	Eye	blinking frequency at rest	number per 120 seconds	Ready	20	15	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	BFM (OMDRS)	Mouth	maximal mouth opening	mm	Ready	24	45	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	BFM (OMDRS)	Mouth	maximal mouth deviation 	mm	Ready	3	6	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	BFM (OMDRS)	Mouth	maximal mouth protrusion	mm	Ready	2	5	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	BFM (OMDRS)	Mouth	involuntary mouth opening	mm	Ready	5	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	BFM (OMDRS)	Mouth	involuntary mouth deviation	mm	Ready	2	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	BFM (OMDRS)	Mouth	involntary mouth protrusion 	mm	Ready	2	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	BFM (TWSTRS)	Neck	rotation at rest	degrees avg over 10 seconds	Ready	25	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	BFM (TWSTRS)	Neck	Laterocollis at rest(excluding shoulder elevation)	degrees avg over 10 seconds	Ready	17	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	BFM (TWSTRS)	Neck	Anterocollis at rest	degrees avg over 10 seconds	Ready	15	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	BFM (TWSTRS)	Neck	retrocollis at rest	degrees avg over 10 seconds	Ready	18	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	BFM (TWSTRS)	Neck	Lateral shift at rest	present or absent	Ready	present	absent	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	BFM (TWSTRS)	Neck	Sagittal shift at rest	present or absent	Ready	present	absent	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	BFM (TWSTRS)	Neck	rotation sensoy trick 	degrees avg over 10 seconds	Ready	25	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	BFM (TWSTRS)	Neck	Laterocollis sensory trick(excluding shoulder elevation)	degrees avg over 10 seconds	Ready	10	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	BFM (TWSTRS)	Neck	Anterocollis sensory trick	degrees avg over 10 seconds	Ready	10	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	BFM (TWSTRS)	Neck	retrocollis sensory trick	degrees avg over 10 seconds	Ready	7	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	BFM (TWSTRS)	Neck	max time straight position maintained	sec	Ready	40	100	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	BFM	Trunk	antero posterior Angle at hip	degrees avg over 10 seconds	Ready	7	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	BFM	Trunk	antero-posterior Angle at shoulder	degrees avg over 10 seconds	Ready	4	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	BFM	Trunk	lateral deviation angle at hip	degrees avg over 10 seconds	Ready	5	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	BFM	Trunk	lateral deviation angle at shoulders	degrees avg over 10 seconds	Ready	2	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	BFM	Trunk	movement + antero posterior Angle at hip	degrees avg over 10 seconds	Ready	5	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	BFM	Trunk	movement + antero-posterior Angle at shoulder	degrees avg over 10 seconds	Ready	4	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	BFM	Trunk	movement + lateral deviation angle at hip	degrees avg over 10 seconds	Ready	5	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	BFM	Trunk	movement + lateral deviation angle at shoulders	degrees avg over 10 seconds	Ready	2	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	BFM	Leg - L	knee angle at rest sitting	degrees avg over 10 seconds	Ready	60	90	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	BFM	Leg - L	Ankle inversion-eversion angle at rest sitting	degrees avg over 10 seconds	Ready	10	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	BFM	Leg - L	Ankle Dorsiflexion angle at rest sitting	degrees avg over 10 seconds	Ready	65	90	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	BFM	Leg - R	knee angle at rest sitting	degrees avg over 10 seconds	Ready	55	90	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	BFM	Leg - R	Ankle inversion-eversion angle at rest sitting	degrees avg over 10 seconds	Ready	10	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-20 Jul 2022	BFM	Leg - R	Ankle Dorsiflexion angle at rest sitting	degrees avg over 10 seconds	Ready	60	90	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	UPDRS	Finger tapping - R	Interruption	per 10 sec	Ready	3	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	UPDRS	Finger tapping - R	Frequency	per 10 sec	Ready	20	30	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	UPDRS	Finger tapping - L	Interruption	per 10 sec	Ready	2	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	UPDRS	Finger tapping - L	Frequency	per 10 sec	Ready	20	30	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	UPDRS	facial expression	Eye blink frequency 	per 60 seconds	Ready	15	25	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	UPDRS	facial expression	Lips parted distance 	cm	Ready	0.5	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	UPDRS	hand movements - R	interruption 	per 10 sec	Ready	2	0	3		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	UPDRS	hand movements - R	frequency	per 10 sec	Ready	15	20	3		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	UPDRS	hand movements - R	amplitude	Percentage average	Ready	88%	100	3		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	UPDRS	hand movements - L	interruption 	per 10 sec	Ready	2	0	3		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	UPDRS	hand movements - L	frequency	per 10 sec	Ready	15	20	3		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	UPDRS	hand movements - L	amplitude	Percentage average	Ready	88%	100	3		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	UPDRS	tow tapping -R	interruption 	per 10 seconds	Ready	2	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	UPDRS	tow tapping - R	frequency	per 10 seconds	Ready	16	20	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	UPDRS	tow tapping - R	amplitude (toe to ground)	cm average	Ready	4	6	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	UPDRS	tow tapping - L	interruption 	per 10 seconds	Ready	2	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	UPDRS	tow tapping - L	frequency	per 10 seconds	Ready	16	20	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	UPDRS	tow tapping - L	amplitude (toe to ground)	cm average	Ready	4	6	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	UPDRS	Pronation supination - R	interruption 	per 10 seconds	Ready	1	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	UPDRS	Pronation supination - R	frequency	per 10 seconds	Ready	17	20	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	UPDRS	Pronation supination - R	amplitude (movement angle covered)	degrees moved average	Ready	175	180	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	UPDRS	Pronation supination - L	interruption 	per 10 seconds	Ready	1	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	UPDRS	Pronation supination - L	frequency	per 10 seconds	Ready	17	20	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	UPDRS	Pronation supination - L	amplitude (movement angle covered)	degrees moved average	Ready	165	180	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	UPDRS	Leg agility - R	interruption 	per 10 seconds	Ready	2	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	UPDRS	Leg agility - R	frequency	per 10 seconds	Ready	8	10	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	UPDRS	Leg agility - R	amplitude (foot to ground)	cm average	Ready	20	30	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	UPDRS	Leg agility - L	interruption 	per 10 seconds	Ready	2	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	UPDRS	Leg agility - L	frequency	per 10 seconds	Ready	8	10	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	UPDRS	Leg agility - L	amplitude (foot to ground)	cm average	Ready	20	30	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	UPDRS	Gait	Step time average (steps taken per 10 seconds)	10 seconds	Ready	4	6	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	UPDRS	Gait	swing time	per second 	Ready	0.4	0.5	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	UPDRS	Gait	step distance	meter	Ready	0.56	0.6	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	UPDRS	Gait	freezes	per 10 seconds	Ready	1	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	UPDRS	posture - after standing	craniovertebral angle	degrees average over 3 seconds 	Ready	110	90-105	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	UPDRS	posture - after standing	scoliosis angle	degrees average over 3 seconds 	Ready	10	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	UPDRS	posture - after standing	kyphosis angle	degrees average over 3 seconds 	Ready	15	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	UPDRS	posture - sitting 	craniovertebral angle	degrees average over 3 seconds 	Ready	100	90-105	0		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	UPDRS	posture - sitting 	scoliosis angle	degrees average over 3 seconds 	Ready	13	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	UPDRS	posture - sitting 	kyphosis angle	degrees average over 3 seconds 	Ready	10	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	UPDRS	tremor - postural - R	amplitude average over 10 second	mm	Ready	5	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	UPDRS	tremor - postural - L	amplitude average over 10 second	mm	Ready	15	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	UPDRS	tremor - Kinetic - R	amplitude average over 10 second	mm	Ready	20	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	UPDRS	tremor - Kinetic - L	amplitude average over 10 second	mm	Ready	18	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	UPDRS	rest tremor - RA	amplitude average over 10 second	mm	Ready	8	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	UPDRS	rest tremor - LA	amplitude average over 10 second	mm	Ready	7	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	UPDRS	rest tremor - LIP	amplitude average over 10 second	mm	Ready	4	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	UPDRS	rest tremor - JAW	amplitude average over 10 second	mm	Ready	5	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	UPDRS	Tremor spiral quantification 	correlation	%	Ready	30	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	UPDRS	speech	cepstral peak performance	ratio	Ready	69	70.1-71	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	UPDRS	speech	shimmer	ratio 	Ready	0.1	0.25	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	BFM (BSS)	Eye	type of spasm (closure distance mm X duration of spasm) 	average	Ready	9	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	BFM (BSS)	Eye 	Opening apraxia	present (2) or absent (0)	Ready	2	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	BFM (BSS)	Eye	Spasm during writing	present (1) or absent (0)	Ready	1	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	BFM (BSS)	Eye	Duration of complete spasm at rest	sec	Ready	3	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	BFM (BSS)	Eye	frequency of complete spasm at rest	number per 120 seconds	Ready	5	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	BFM (BSS)	Eye	frequency of partial spasm at rest	number per 120 seconds	Ready	4	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	BFM (BSS)	Eye	blinking frequency at rest	number per 120 seconds	Ready	20	15	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	BFM (OMDRS)	Mouth	maximal mouth opening	mm	Ready	24	45	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	BFM (OMDRS)	Mouth	maximal mouth deviation 	mm	Ready	3	6	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	BFM (OMDRS)	Mouth	maximal mouth protrusion	mm	Ready	2	5	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	BFM (OMDRS)	Mouth	involuntary mouth opening	mm	Ready	5	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	BFM (OMDRS)	Mouth	involuntary mouth deviation	mm	Ready	2	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	BFM (OMDRS)	Mouth	involntary mouth protrusion 	mm	Ready	2	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	BFM (TWSTRS)	Neck	rotation at rest	degrees avg over 10 seconds	Ready	25	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	BFM (TWSTRS)	Neck	Laterocollis at rest(excluding shoulder elevation)	degrees avg over 10 seconds	Ready	17	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	BFM (TWSTRS)	Neck	Anterocollis at rest	degrees avg over 10 seconds	Ready	15	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	BFM (TWSTRS)	Neck	retrocollis at rest	degrees avg over 10 seconds	Ready	18	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	BFM (TWSTRS)	Neck	Lateral shift at rest	present or absent	Ready	present	absent	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	BFM (TWSTRS)	Neck	Sagittal shift at rest	present or absent	Ready	present	absent	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	BFM (TWSTRS)	Neck	rotation sensoy trick 	degrees avg over 10 seconds	Ready	25	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	BFM (TWSTRS)	Neck	Laterocollis sensory trick(excluding shoulder elevation)	degrees avg over 10 seconds	Ready	10	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	BFM (TWSTRS)	Neck	Anterocollis sensory trick	degrees avg over 10 seconds	Ready	10	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	BFM (TWSTRS)	Neck	retrocollis sensory trick	degrees avg over 10 seconds	Ready	7	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	BFM (TWSTRS)	Neck	max time straight position maintained	sec	Ready	40	100	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	BFM	Trunk	antero posterior Angle at hip	degrees avg over 10 seconds	Ready	7	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	BFM	Trunk	antero-posterior Angle at shoulder	degrees avg over 10 seconds	Ready	4	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	BFM	Trunk	lateral deviation angle at hip	degrees avg over 10 seconds	Ready	5	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	BFM	Trunk	lateral deviation angle at shoulders	degrees avg over 10 seconds	Ready	2	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	BFM	Trunk	movement + antero posterior Angle at hip	degrees avg over 10 seconds	Ready	5	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	BFM	Trunk	movement + antero-posterior Angle at shoulder	degrees avg over 10 seconds	Ready	4	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	BFM	Trunk	movement + lateral deviation angle at hip	degrees avg over 10 seconds	Ready	5	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	BFM	Trunk	movement + lateral deviation angle at shoulders	degrees avg over 10 seconds	Ready	2	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	BFM	Leg - L	knee angle at rest sitting	degrees avg over 10 seconds	Ready	60	90	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	BFM	Leg - L	Ankle inversion-eversion angle at rest sitting	degrees avg over 10 seconds	Ready	10	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	BFM	Leg - L	Ankle Dorsiflexion angle at rest sitting	degrees avg over 10 seconds	Ready	65	90	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	BFM	Leg - R	knee angle at rest sitting	degrees avg over 10 seconds	Ready	55	90	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	BFM	Leg - R	Ankle inversion-eversion angle at rest sitting	degrees avg over 10 seconds	Ready	10	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-25 Nov 2022	BFM	Leg - R	Ankle Dorsiflexion angle at rest sitting	degrees avg over 10 seconds	Ready	60	90	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	UPDRS	Finger tapping - R	Interruption	per 10 sec	Ready	3	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	UPDRS	Finger tapping - R	Frequency	per 10 sec	Ready	20	30	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	UPDRS	Finger tapping - L	Interruption	per 10 sec	Ready	2	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	UPDRS	Finger tapping - L	Frequency	per 10 sec	Ready	20	30	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	UPDRS	facial expression	Eye blink frequency 	per 60 seconds	Ready	15	25	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	UPDRS	facial expression	Lips parted distance 	cm	Ready	0.5	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	UPDRS	hand movements - R	interruption 	per 10 sec	Ready	2	0	3		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	UPDRS	hand movements - R	frequency	per 10 sec	Ready	15	20	3		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	UPDRS	hand movements - R	amplitude	Percentage average	Ready	88%	100	3		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	UPDRS	hand movements - L	interruption 	per 10 sec	Ready	2	0	3		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	UPDRS	hand movements - L	frequency	per 10 sec	Ready	15	20	3		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	UPDRS	hand movements - L	amplitude	Percentage average	Ready	88%	100	3		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	UPDRS	tow tapping -R	interruption 	per 10 seconds	Ready	2	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	UPDRS	tow tapping - R	frequency	per 10 seconds	Ready	16	20	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	UPDRS	tow tapping - R	amplitude (toe to ground)	cm average	Ready	4	6	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	UPDRS	tow tapping - L	interruption 	per 10 seconds	Ready	2	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	UPDRS	tow tapping - L	frequency	per 10 seconds	Ready	16	20	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	UPDRS	tow tapping - L	amplitude (toe to ground)	cm average	Ready	4	6	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	UPDRS	Pronation supination - R	interruption 	per 10 seconds	Ready	1	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	UPDRS	Pronation supination - R	frequency	per 10 seconds	Ready	17	20	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	UPDRS	Pronation supination - R	amplitude (movement angle covered)	degrees moved average	Ready	175	180	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	UPDRS	Pronation supination - L	interruption 	per 10 seconds	Ready	1	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	UPDRS	Pronation supination - L	frequency	per 10 seconds	Ready	17	20	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	UPDRS	Pronation supination - L	amplitude (movement angle covered)	degrees moved average	Ready	165	180	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	UPDRS	Leg agility - R	interruption 	per 10 seconds	Ready	2	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	UPDRS	Leg agility - R	frequency	per 10 seconds	Ready	8	10	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	UPDRS	Leg agility - R	amplitude (foot to ground)	cm average	Ready	20	30	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	UPDRS	Leg agility - L	interruption 	per 10 seconds	Ready	2	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	UPDRS	Leg agility - L	frequency	per 10 seconds	Ready	8	10	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	UPDRS	Leg agility - L	amplitude (foot to ground)	cm average	Ready	20	30	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	UPDRS	Gait	Step time average (steps taken per 10 seconds)	10 seconds	Ready	4	6	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	UPDRS	Gait	swing time	per second 	Ready	0.4	0.5	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	UPDRS	Gait	step distance	meter	Ready	0.56	0.6	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	UPDRS	Gait	freezes	per 10 seconds	Ready	1	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	UPDRS	posture - after standing	craniovertebral angle	degrees average over 3 seconds 	Ready	110	90-105	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	UPDRS	posture - after standing	scoliosis angle	degrees average over 3 seconds 	Ready	10	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	UPDRS	posture - after standing	kyphosis angle	degrees average over 3 seconds 	Ready	15	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	UPDRS	posture - sitting 	craniovertebral angle	degrees average over 3 seconds 	Ready	100	90-105	0		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	UPDRS	posture - sitting 	scoliosis angle	degrees average over 3 seconds 	Ready	13	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	UPDRS	posture - sitting 	kyphosis angle	degrees average over 3 seconds 	Ready	10	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	UPDRS	tremor - postural - R	amplitude average over 10 second	mm	Ready	5	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	UPDRS	tremor - postural - L	amplitude average over 10 second	mm	Ready	15	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	UPDRS	tremor - Kinetic - R	amplitude average over 10 second	mm	Ready	20	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	UPDRS	tremor - Kinetic - L	amplitude average over 10 second	mm	Ready	18	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	UPDRS	rest tremor - RA	amplitude average over 10 second	mm	Ready	8	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	UPDRS	rest tremor - LA	amplitude average over 10 second	mm	Ready	7	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	UPDRS	rest tremor - LIP	amplitude average over 10 second	mm	Ready	4	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	UPDRS	rest tremor - JAW	amplitude average over 10 second	mm	Ready	5	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	UPDRS	Tremor spiral quantification 	correlation	%	Ready	30	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	UPDRS	speech	cepstral peak performance	ratio	Ready	69	70.1-71	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	UPDRS	speech	shimmer	ratio 	Ready	0.1	0.25	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	BFM (BSS)	Eye	type of spasm (closure distance mm X duration of spasm) 	average	Ready	9	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	BFM (BSS)	Eye 	Opening apraxia	present (2) or absent (0)	Ready	2	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	BFM (BSS)	Eye	Spasm during writing	present (1) or absent (0)	Ready	1	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	BFM (BSS)	Eye	Duration of complete spasm at rest	sec	Ready	3	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	BFM (BSS)	Eye	frequency of complete spasm at rest	number per 120 seconds	Ready	5	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	BFM (BSS)	Eye	frequency of partial spasm at rest	number per 120 seconds	Ready	4	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	BFM (BSS)	Eye	blinking frequency at rest	number per 120 seconds	Ready	20	15	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	BFM (OMDRS)	Mouth	maximal mouth opening	mm	Ready	24	45	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	BFM (OMDRS)	Mouth	maximal mouth deviation 	mm	Ready	3	6	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	BFM (OMDRS)	Mouth	maximal mouth protrusion	mm	Ready	2	5	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	BFM (OMDRS)	Mouth	involuntary mouth opening	mm	Ready	5	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	BFM (OMDRS)	Mouth	involuntary mouth deviation	mm	Ready	2	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	BFM (OMDRS)	Mouth	involntary mouth protrusion 	mm	Ready	2	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	BFM (TWSTRS)	Neck	rotation at rest	degrees avg over 10 seconds	Ready	25	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	BFM (TWSTRS)	Neck	Laterocollis at rest(excluding shoulder elevation)	degrees avg over 10 seconds	Ready	17	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	BFM (TWSTRS)	Neck	Anterocollis at rest	degrees avg over 10 seconds	Ready	15	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	BFM (TWSTRS)	Neck	retrocollis at rest	degrees avg over 10 seconds	Ready	18	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	BFM (TWSTRS)	Neck	Lateral shift at rest	present or absent	Ready	present	absent	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	BFM (TWSTRS)	Neck	Sagittal shift at rest	present or absent	Ready	present	absent	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	BFM (TWSTRS)	Neck	rotation sensoy trick 	degrees avg over 10 seconds	Ready	25	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	BFM (TWSTRS)	Neck	Laterocollis sensory trick(excluding shoulder elevation)	degrees avg over 10 seconds	Ready	10	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	BFM (TWSTRS)	Neck	Anterocollis sensory trick	degrees avg over 10 seconds	Ready	10	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	BFM (TWSTRS)	Neck	retrocollis sensory trick	degrees avg over 10 seconds	Ready	7	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	BFM (TWSTRS)	Neck	max time straight position maintained	sec	Ready	40	100	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	BFM	Trunk	antero posterior Angle at hip	degrees avg over 10 seconds	Ready	7	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	BFM	Trunk	antero-posterior Angle at shoulder	degrees avg over 10 seconds	Ready	4	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	BFM	Trunk	lateral deviation angle at hip	degrees avg over 10 seconds	Ready	5	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	BFM	Trunk	lateral deviation angle at shoulders	degrees avg over 10 seconds	Ready	2	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	BFM	Trunk	movement + antero posterior Angle at hip	degrees avg over 10 seconds	Ready	5	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	BFM	Trunk	movement + antero-posterior Angle at shoulder	degrees avg over 10 seconds	Ready	4	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	BFM	Trunk	movement + lateral deviation angle at hip	degrees avg over 10 seconds	Ready	5	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	BFM	Trunk	movement + lateral deviation angle at shoulders	degrees avg over 10 seconds	Ready	2	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	BFM	Leg - L	knee angle at rest sitting	degrees avg over 10 seconds	Ready	60	90	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	BFM	Leg - L	Ankle inversion-eversion angle at rest sitting	degrees avg over 10 seconds	Ready	10	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	BFM	Leg - L	Ankle Dorsiflexion angle at rest sitting	degrees avg over 10 seconds	Ready	65	90	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	BFM	Leg - R	knee angle at rest sitting	degrees avg over 10 seconds	Ready	55	90	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	BFM	Leg - R	Ankle inversion-eversion angle at rest sitting	degrees avg over 10 seconds	Ready	10	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
-31 Jan 2023	BFM	Leg - R	Ankle Dorsiflexion angle at rest sitting	degrees avg over 10 seconds	Ready	60	90	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Levodopa-PO-300mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	UPDRS	Finger tapping - R	Interruption	per 10 sec	Ready	3	0	2	finger_tapping.mov	Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	UPDRS	Finger tapping - R	Frequency	per 10 sec	Ready	20	30	2	finger_tapping.mov	Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	UPDRS	Finger tapping - L	Interruption	per 10 sec	Ready	2	0	1	finger_tapping.mov	Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	UPDRS	Finger tapping - L	Frequency	per 10 sec	Ready	20	30	1	finger_tapping.mov	Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	UPDRS	facial expression	Eye blink frequency 	per 60 seconds	Ready	15	25	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	UPDRS	facial expression	Lips parted distance 	cm	Ready	0.5	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	UPDRS	hand movements - R	interruption 	per 10 sec	Ready	2	0	3		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	UPDRS	hand movements - R	frequency	per 10 sec	Ready	15	20	3		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	UPDRS	hand movements - R	amplitude	Percentage average	Ready	88%	100	3		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	UPDRS	hand movements - L	interruption 	per 10 sec	Ready	2	0	3		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	UPDRS	hand movements - L	frequency	per 10 sec	Ready	15	20	3		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	UPDRS	hand movements - L	amplitude	Percentage average	Ready	88%	100	3		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	UPDRS	tow tapping -R	interruption 	per 10 seconds	Ready	2	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	UPDRS	tow tapping - R	frequency	per 10 seconds	Ready	16	20	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	UPDRS	tow tapping - R	amplitude (toe to ground)	cm average	Ready	4	6	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	UPDRS	tow tapping - L	interruption 	per 10 seconds	Ready	2	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	UPDRS	tow tapping - L	frequency	per 10 seconds	Ready	16	20	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	UPDRS	tow tapping - L	amplitude (toe to ground)	cm average	Ready	4	6	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	UPDRS	Pronation supination - R	interruption 	per 10 seconds	Ready	1	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	UPDRS	Pronation supination - R	frequency	per 10 seconds	Ready	17	20	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	UPDRS	Pronation supination - R	amplitude (movement angle covered)	degrees moved average	Ready	175	180	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	UPDRS	Pronation supination - L	interruption 	per 10 seconds	Ready	1	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	UPDRS	Pronation supination - L	frequency	per 10 seconds	Ready	17	20	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	UPDRS	Pronation supination - L	amplitude (movement angle covered)	degrees moved average	Ready	165	180	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	UPDRS	Leg agility - R	interruption 	per 10 seconds	Ready	2	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	UPDRS	Leg agility - R	frequency	per 10 seconds	Ready	8	10	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	UPDRS	Leg agility - R	amplitude (foot to ground)	cm average	Ready	20	30	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	UPDRS	Leg agility - L	interruption 	per 10 seconds	Ready	2	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	UPDRS	Leg agility - L	frequency	per 10 seconds	Ready	8	10	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	UPDRS	Leg agility - L	amplitude (foot to ground)	cm average	Ready	20	30	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	UPDRS	Gait	Step time average (steps taken per 10 seconds)	10 seconds	Ready	4	6	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	UPDRS	Gait	swing time	per second 	Ready	0.4	0.5	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	UPDRS	Gait	step distance	meter	Ready	0.56	0.6	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	UPDRS	Gait	freezes	per 10 seconds	Ready	1	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	UPDRS	posture - after standing	craniovertebral angle	degrees average over 3 seconds 	Ready	110	90-105	1	posture.mov	Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	UPDRS	posture - after standing	scoliosis angle	degrees average over 3 seconds 	Ready	10	0	1	posture.mov	Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	UPDRS	posture - after standing	kyphosis angle	degrees average over 3 seconds 	Ready	15	0	1	posture.mov	Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	UPDRS	posture - sitting 	craniovertebral angle	degrees average over 3 seconds 	Ready	100	90-105	0		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	UPDRS	posture - sitting 	scoliosis angle	degrees average over 3 seconds 	Ready	13	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	UPDRS	posture - sitting 	kyphosis angle	degrees average over 3 seconds 	Ready	10	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	UPDRS	tremor - postural - R	amplitude average over 10 second	mm	Ready	5	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	UPDRS	tremor - postural - L	amplitude average over 10 second	mm	Ready	15	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	UPDRS	tremor - Kinetic - R	amplitude average over 10 second	mm	Ready	20	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	UPDRS	tremor - Kinetic - L	amplitude average over 10 second	mm	Ready	18	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	UPDRS	rest tremor - RA	amplitude average over 10 second	mm	Ready	8	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	UPDRS	rest tremor - LA	amplitude average over 10 second	mm	Ready	7	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	UPDRS	rest tremor - LIP	amplitude average over 10 second	mm	Ready	4	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	UPDRS	rest tremor - JAW	amplitude average over 10 second	mm	Ready	5	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	UPDRS	Tremor spiral quantification 	correlation	%	Ready	30	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	UPDRS	speech	cepstral peak performance	ratio	Ready	69	70.1-71	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	UPDRS	speech	shimmer	ratio 	Ready	0.1	0.25	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	BFM (BSS)	Eye	type of spasm (closure distance mm X duration of spasm) 	average	Ready	9	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	BFM (BSS)	Eye 	Opening apraxia	present (2) or absent (0)	Ready	2	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	BFM (BSS)	Eye	Spasm during writing	present (1) or absent (0)	Ready	1	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	BFM (BSS)	Eye	Duration of complete spasm at rest	sec	Ready	3	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	BFM (BSS)	Eye	frequency of complete spasm at rest	number per 120 seconds	Ready	5	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	BFM (BSS)	Eye	frequency of partial spasm at rest	number per 120 seconds	Ready	4	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	BFM (BSS)	Eye	blinking frequency at rest	number per 120 seconds	Ready	20	15	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	BFM (OMDRS)	Mouth	maximal mouth opening	mm	Ready	24	45	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	BFM (OMDRS)	Mouth	maximal mouth deviation 	mm	Ready	3	6	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	BFM (OMDRS)	Mouth	maximal mouth protrusion	mm	Ready	2	5	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	BFM (OMDRS)	Mouth	involuntary mouth opening	mm	Ready	5	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	BFM (OMDRS)	Mouth	involuntary mouth deviation	mm	Ready	2	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	BFM (OMDRS)	Mouth	involntary mouth protrusion 	mm	Ready	2	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	BFM (TWSTRS)	Neck	rotation at rest	degrees avg over 10 seconds	Ready	25	0	2	neck_dystonia.mov	Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	BFM (TWSTRS)	Neck	Laterocollis at rest(excluding shoulder elevation)	degrees avg over 10 seconds	Ready	17	0	2	neck_dystonia.mov	Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	BFM (TWSTRS)	Neck	Anterocollis at rest	degrees avg over 10 seconds	Ready	15	0	2	neck_dystonia.mov	Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	BFM (TWSTRS)	Neck	retrocollis at rest	degrees avg over 10 seconds	Ready	18	0	2	neck_dystonia.mov	Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	BFM (TWSTRS)	Neck	Lateral shift at rest	present or absent	Ready	present	absent	1	neck_dystonia.mov	Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	BFM (TWSTRS)	Neck	Sagittal shift at rest	present or absent	Ready	present	absent	1	neck_dystonia.mov	Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	BFM (TWSTRS)	Neck	rotation sensoy trick 	degrees avg over 10 seconds	Ready	25	0	2	neck_dystonia.mov	Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	BFM (TWSTRS)	Neck	Laterocollis sensory trick(excluding shoulder elevation)	degrees avg over 10 seconds	Ready	10	0	1	neck_dystonia.mov	Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	BFM (TWSTRS)	Neck	Anterocollis sensory trick	degrees avg over 10 seconds	Ready	10	0	1	neck_dystonia.mov	Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	BFM (TWSTRS)	Neck	retrocollis sensory trick	degrees avg over 10 seconds	Ready	7	0	1	neck_dystonia.mov	Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	BFM (TWSTRS)	Neck	max time straight position maintained	sec	Ready	40	100	2	neck_dystonia.mov	Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	BFM	Trunk	antero posterior Angle at hip	degrees avg over 10 seconds	Ready	7	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	BFM	Trunk	antero-posterior Angle at shoulder	degrees avg over 10 seconds	Ready	4	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	BFM	Trunk	lateral deviation angle at hip	degrees avg over 10 seconds	Ready	5	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	BFM	Trunk	lateral deviation angle at shoulders	degrees avg over 10 seconds	Ready	2	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	BFM	Trunk	movement + antero posterior Angle at hip	degrees avg over 10 seconds	Ready	5	0	1		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	BFM	Trunk	movement + antero-posterior Angle at shoulder	degrees avg over 10 seconds	Ready	4	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	BFM	Trunk	movement + lateral deviation angle at hip	degrees avg over 10 seconds	Ready	5	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	BFM	Trunk	movement + lateral deviation angle at shoulders	degrees avg over 10 seconds	Ready	2	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	BFM	Leg - L	knee angle at rest sitting	degrees avg over 10 seconds	Ready	60	90	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	BFM	Leg - L	Ankle inversion-eversion angle at rest sitting	degrees avg over 10 seconds	Ready	10	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	BFM	Leg - L	Ankle Dorsiflexion angle at rest sitting	degrees avg over 10 seconds	Ready	65	90	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	BFM	Leg - R	knee angle at rest sitting	degrees avg over 10 seconds	Ready	55	90	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	BFM	Leg - R	Ankle inversion-eversion angle at rest sitting	degrees avg over 10 seconds	Ready	10	0	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+10 Jan 2022	BFM	Leg - R	Ankle Dorsiflexion angle at rest sitting	degrees avg over 10 seconds	Ready	60	90	2		Tetrabenazine-PO-35mg-BD, Levodopa-PO-300mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-30U-STAT
+19 Apr 2022	UPDRS	Finger tapping - R	Interruption	per 10 sec	Ready	2	0	1		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	UPDRS	Finger tapping - R	Frequency	per 10 sec	Ready	25	30	1		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	UPDRS	Finger tapping - L	Interruption	per 10 sec	Ready	1	0	1		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	UPDRS	Finger tapping - L	Frequency	per 10 sec	Ready	30	30	0		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	UPDRS	facial expression	Eye blink frequency 	per 60 seconds	Ready	15	25	2		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	UPDRS	facial expression	Lips parted distance 	cm	Ready	0.3	0	1		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	UPDRS	hand movements - R	interruption 	per 10 sec	Ready	1	0	2		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	UPDRS	hand movements - R	frequency	per 10 sec	Ready	17	20	2		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	UPDRS	hand movements - R	amplitude	Percentage average	Ready	90%	100	2		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	UPDRS	hand movements - L	interruption 	per 10 sec	Ready	1	0	1		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	UPDRS	hand movements - L	frequency	per 10 sec	Ready	12	20	3		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	UPDRS	hand movements - L	amplitude	Percentage average	Ready	90%	100	2		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	UPDRS	tow tapping -R	interruption 	per 10 seconds	Ready	1	0	1		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	UPDRS	tow tapping - R	frequency	per 10 seconds	Ready	18	20	1		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	UPDRS	tow tapping - R	amplitude (toe to ground)	cm average	Ready	5	6	1		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	UPDRS	tow tapping - L	interruption 	per 10 seconds	Ready	1	0	1		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	UPDRS	tow tapping - L	frequency	per 10 seconds	Ready	18	20	1		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	UPDRS	tow tapping - L	amplitude (toe to ground)	cm average	Ready	5	6	1		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	UPDRS	Pronation supination - R	interruption 	per 10 seconds	Ready	2	0	2		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	UPDRS	Pronation supination - R	frequency	per 10 seconds	Ready	15	20	2		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	UPDRS	Pronation supination - R	amplitude (movement angle covered)	degrees moved average	Ready	160	180	2		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	UPDRS	Pronation supination - L	interruption 	per 10 seconds	Ready	2	0	2		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	UPDRS	Pronation supination - L	frequency	per 10 seconds	Ready	13	20	2		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	UPDRS	Pronation supination - L	amplitude (movement angle covered)	degrees moved average	Ready	150	180	2		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	UPDRS	Leg agility - R	interruption 	per 10 seconds	Ready	3	0	2		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	UPDRS	Leg agility - R	frequency	per 10 seconds	Ready	6	10	2		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	UPDRS	Leg agility - R	amplitude (foot to ground)	cm average	Ready	25	30	2		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	UPDRS	Leg agility - L	interruption 	per 10 seconds	Ready	1	0	1		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	UPDRS	Leg agility - L	frequency	per 10 seconds	Ready	7	10	2		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	UPDRS	Leg agility - L	amplitude (foot to ground)	cm average	Ready	15	30	2		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	UPDRS	Gait	Step time average (steps taken per 10 seconds)	10 seconds	Ready	3	6	2		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	UPDRS	Gait	swing time	per second 	Ready	0.3	0.5	2		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	UPDRS	Gait	step distance	meter	Ready	0.51	0.6	2		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	UPDRS	Gait	freezes	per 10 seconds	Ready	2	0	2		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	UPDRS	posture - after standing	craniovertebral angle	degrees average over 3 seconds 	Ready	125	90-105	2		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	UPDRS	posture - after standing	scoliosis angle	degrees average over 3 seconds 	Ready	15	0	2		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	UPDRS	posture - after standing	kyphosis angle	degrees average over 3 seconds 	Ready	20	0	2		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	UPDRS	posture - sitting 	craniovertebral angle	degrees average over 3 seconds 	Ready	110	90-105	1		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	UPDRS	posture - sitting 	scoliosis angle	degrees average over 3 seconds 	Ready	15	0	2		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	UPDRS	posture - sitting 	kyphosis angle	degrees average over 3 seconds 	Ready	15	0	2		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	UPDRS	tremor - postural - R	amplitude average over 10 second	mm	Ready	3	0	1		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	UPDRS	tremor - postural - L	amplitude average over 10 second	mm	Ready	5	0	1		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	UPDRS	tremor - Kinetic - R	amplitude average over 10 second	mm	Ready	10	0	1		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	UPDRS	tremor - Kinetic - L	amplitude average over 10 second	mm	Ready	10	0	2		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	UPDRS	rest tremor - RA	amplitude average over 10 second	mm	Ready	5	0	1		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	UPDRS	rest tremor - LA	amplitude average over 10 second	mm	Ready	10	0	2		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	UPDRS	rest tremor - LIP	amplitude average over 10 second	mm	Ready	8	0	2		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	UPDRS	rest tremor - JAW	amplitude average over 10 second	mm	Ready	8	0	2		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	UPDRS	Tremor spiral quantification 	correlation	%	Ready	40	0	3		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	UPDRS	speech	cepstral peak performance	ratio	Ready	64	70.1-71	3		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	UPDRS	speech	shimmer	ratio 	Ready	0.08	0.25	3		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	BFM (BSS)	Eye	type of spasm (closure distance mm X duration of spasm) 	average	Ready	10	0	3		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	BFM (BSS)	Eye 	Opening apraxia	present (2) or absent (0)	Ready	0	0	0		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	BFM (BSS)	Eye	Spasm during writing	present (1) or absent (0)	Ready	0	0	0		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	BFM (BSS)	Eye	Duration of complete spasm at rest	sec	Ready	2	0	1		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	BFM (BSS)	Eye	frequency of complete spasm at rest	number per 120 seconds	Ready	3	0	1		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	BFM (BSS)	Eye	frequency of partial spasm at rest	number per 120 seconds	Ready	2	0	1		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	BFM (BSS)	Eye	blinking frequency at rest	number per 120 seconds	Ready	17	15	1		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	BFM (OMDRS)	Mouth	maximal mouth opening	mm	Ready	30	45	1		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	BFM (OMDRS)	Mouth	maximal mouth deviation 	mm	Ready	4	6	1		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	BFM (OMDRS)	Mouth	maximal mouth protrusion	mm	Ready	3	5	1		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	BFM (OMDRS)	Mouth	involuntary mouth opening	mm	Ready	3	0	1		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	BFM (OMDRS)	Mouth	involuntary mouth deviation	mm	Ready	1	0	1		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	BFM (OMDRS)	Mouth	involntary mouth protrusion 	mm	Ready	1	0	1		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	BFM (TWSTRS)	Neck	rotation at rest	degrees avg over 10 seconds	Ready	15	0	1		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	BFM (TWSTRS)	Neck	Laterocollis at rest(excluding shoulder elevation)	degrees avg over 10 seconds	Ready	10	0	1		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	BFM (TWSTRS)	Neck	Anterocollis at rest	degrees avg over 10 seconds	Ready	10	0	1		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	BFM (TWSTRS)	Neck	retrocollis at rest	degrees avg over 10 seconds	Ready	11	0	1		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	BFM (TWSTRS)	Neck	Lateral shift at rest	present or absent	Ready	present	absent	1		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	BFM (TWSTRS)	Neck	Sagittal shift at rest	present or absent	Ready	present	absent	1		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	BFM (TWSTRS)	Neck	rotation sensoy trick 	degrees avg over 10 seconds	Ready	10	0	1		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	BFM (TWSTRS)	Neck	Laterocollis sensory trick(excluding shoulder elevation)	degrees avg over 10 seconds	Ready	5	0	1		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	BFM (TWSTRS)	Neck	Anterocollis sensory trick	degrees avg over 10 seconds	Ready	2	0	0		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	BFM (TWSTRS)	Neck	retrocollis sensory trick	degrees avg over 10 seconds	Ready	2	0	0		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	BFM (TWSTRS)	Neck	max time straight position maintained	sec	Ready	70	100	1		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	BFM	Trunk	antero posterior Angle at hip	degrees avg over 10 seconds	Ready	10	0	1		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	BFM	Trunk	antero-posterior Angle at shoulder	degrees avg over 10 seconds	Ready	14	0	2		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	BFM	Trunk	lateral deviation angle at hip	degrees avg over 10 seconds	Ready	10	0	2		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	BFM	Trunk	lateral deviation angle at shoulders	degrees avg over 10 seconds	Ready	10	0	2		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	BFM	Trunk	movement + antero posterior Angle at hip	degrees avg over 10 seconds	Ready	8	0	2		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	BFM	Trunk	movement + antero-posterior Angle at shoulder	degrees avg over 10 seconds	Ready	9	0	2		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	BFM	Trunk	movement + lateral deviation angle at hip	degrees avg over 10 seconds	Ready	3	0	1		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	BFM	Trunk	movement + lateral deviation angle at shoulders	degrees avg over 10 seconds	Ready	0	0	0		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	BFM	Leg - L	knee angle at rest sitting	degrees avg over 10 seconds	Ready	75	90	1		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	BFM	Leg - L	Ankle inversion-eversion angle at rest sitting	degrees avg over 10 seconds	Ready	5	0	1		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	BFM	Leg - L	Ankle Dorsiflexion angle at rest sitting	degrees avg over 10 seconds	Ready	78	90	1		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	BFM	Leg - R	knee angle at rest sitting	degrees avg over 10 seconds	Ready	66	90	1		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	BFM	Leg - R	Ankle inversion-eversion angle at rest sitting	degrees avg over 10 seconds	Ready	5	0	1		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+19 Apr 2022	BFM	Leg - R	Ankle Dorsiflexion angle at rest sitting	degrees avg over 10 seconds	Ready	75	90	1		Tetrabenazine-PO-50mg-BD, Levodopa-PO-350mg-BD, Baclofen-PO-35mg-BD, Botulinum Toxin-IM-35U-STAT
+20 Jul 2022	UPDRS	Finger tapping - R	Interruption	per 10 sec	Ready	1	0	1		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	UPDRS	Finger tapping - R	Frequency	per 10 sec	Ready	18	30	3		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	UPDRS	Finger tapping - L	Interruption	per 10 sec	Ready	5	0	3		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	UPDRS	Finger tapping - L	Frequency	per 10 sec	Ready	25	30	2		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	UPDRS	facial expression	Eye blink frequency 	per 60 seconds	Ready	20	25	1		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	UPDRS	facial expression	Lips parted distance 	cm	Ready	0.15	0	1		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	UPDRS	hand movements - R	interruption 	per 10 sec	Ready	1	0	1		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	UPDRS	hand movements - R	frequency	per 10 sec	Ready	12	20	3		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	UPDRS	hand movements - R	amplitude	Percentage average	Ready	75%	100	4		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	UPDRS	hand movements - L	interruption 	per 10 sec	Ready	2	0	2		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	UPDRS	hand movements - L	frequency	per 10 sec	Ready	18	20	21		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	UPDRS	hand movements - L	amplitude	Percentage average	Ready	75%	100	2		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	UPDRS	tow tapping -R	interruption 	per 10 seconds	Ready	1	0	2		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	UPDRS	tow tapping - R	frequency	per 10 seconds	Ready	10	20	3		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	UPDRS	tow tapping - R	amplitude (toe to ground)	cm average	Ready	5	6	1		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	UPDRS	tow tapping - L	interruption 	per 10 seconds	Ready	3	0	3		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	UPDRS	tow tapping - L	frequency	per 10 seconds	Ready	15	20	3		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	UPDRS	tow tapping - L	amplitude (toe to ground)	cm average	Ready	2	6	1		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	UPDRS	Pronation supination - R	interruption 	per 10 seconds	Ready	2	0	2		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	UPDRS	Pronation supination - R	frequency	per 10 seconds	Ready	15	20	2		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	UPDRS	Pronation supination - R	amplitude (movement angle covered)	degrees moved average	Ready	150	180	2		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	UPDRS	Pronation supination - L	interruption 	per 10 seconds	Ready	2	0	2		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	UPDRS	Pronation supination - L	frequency	per 10 seconds	Ready	10	20	2		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	UPDRS	Pronation supination - L	amplitude (movement angle covered)	degrees moved average	Ready	150	180	3		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	UPDRS	Leg agility - R	interruption 	per 10 seconds	Ready	3	0	2		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	UPDRS	Leg agility - R	frequency	per 10 seconds	Ready	5	10	2		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	UPDRS	Leg agility - R	amplitude (foot to ground)	cm average	Ready	15	30	2		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	UPDRS	Leg agility - L	interruption 	per 10 seconds	Ready	3	0	2		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	UPDRS	Leg agility - L	frequency	per 10 seconds	Ready	5	10	2		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	UPDRS	Leg agility - L	amplitude (foot to ground)	cm average	Ready	15	30	2		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	UPDRS	Gait	Step time average (steps taken per 10 seconds)	10 seconds	Ready	2	6	2		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	UPDRS	Gait	swing time	per second 	Ready	0.2	0.5	3		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	UPDRS	Gait	step distance	meter	Ready	0.4	0.6	3		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	UPDRS	Gait	freezes	per 10 seconds	Ready	3	0	3		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	UPDRS	posture - after standing	craniovertebral angle	degrees average over 3 seconds 	Ready	130	90-105	3		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	UPDRS	posture - after standing	scoliosis angle	degrees average over 3 seconds 	Ready	20	0	2		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	UPDRS	posture - after standing	kyphosis angle	degrees average over 3 seconds 	Ready	30	0	3		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	UPDRS	posture - sitting 	craniovertebral angle	degrees average over 3 seconds 	Ready	105	90-105	0		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	UPDRS	posture - sitting 	scoliosis angle	degrees average over 3 seconds 	Ready	20	0	2		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	UPDRS	posture - sitting 	kyphosis angle	degrees average over 3 seconds 	Ready	15	0	2		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	UPDRS	tremor - postural - R	amplitude average over 10 second	mm	Ready	8	0	2		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	UPDRS	tremor - postural - L	amplitude average over 10 second	mm	Ready	5	0	1		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	UPDRS	tremor - Kinetic - R	amplitude average over 10 second	mm	Ready	5	0	1		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	UPDRS	tremor - Kinetic - L	amplitude average over 10 second	mm	Ready	3	0	1		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	UPDRS	rest tremor - RA	amplitude average over 10 second	mm	Ready	2	0	1		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	UPDRS	rest tremor - LA	amplitude average over 10 second	mm	Ready	10	0	2		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	UPDRS	rest tremor - LIP	amplitude average over 10 second	mm	Ready	0	0	0		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	UPDRS	rest tremor - JAW	amplitude average over 10 second	mm	Ready	0	0	0		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	UPDRS	Tremor spiral quantification 	correlation	%	Ready	48	0	3		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	UPDRS	speech	cepstral peak performance	ratio	Ready	40	70.1-71	3		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	UPDRS	speech	shimmer	ratio 	Ready	0.05	0.25	3		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	BFM (BSS)	Eye	type of spasm (closure distance mm X duration of spasm) 	average	Ready	15	0	3		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	BFM (BSS)	Eye 	Opening apraxia	present (2) or absent (0)	Ready	0	0	0		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	BFM (BSS)	Eye	Spasm during writing	present (1) or absent (0)	Ready	0	0	0		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	BFM (BSS)	Eye	Duration of complete spasm at rest	sec	Ready	2	0	1		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	BFM (BSS)	Eye	frequency of complete spasm at rest	number per 120 seconds	Ready	2	0	1		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	BFM (BSS)	Eye	frequency of partial spasm at rest	number per 120 seconds	Ready	2	0	1		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	BFM (BSS)	Eye	blinking frequency at rest	number per 120 seconds	Ready	15	15	0		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	BFM (OMDRS)	Mouth	maximal mouth opening	mm	Ready	40	45	1		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	BFM (OMDRS)	Mouth	maximal mouth deviation 	mm	Ready	6	6	0		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	BFM (OMDRS)	Mouth	maximal mouth protrusion	mm	Ready	4	5	1		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	BFM (OMDRS)	Mouth	involuntary mouth opening	mm	Ready	0	0	0		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	BFM (OMDRS)	Mouth	involuntary mouth deviation	mm	Ready	1	0	1		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	BFM (OMDRS)	Mouth	involntary mouth protrusion 	mm	Ready	1	0	1		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	BFM (TWSTRS)	Neck	rotation at rest	degrees avg over 10 seconds	Ready	5	0	1		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	BFM (TWSTRS)	Neck	Laterocollis at rest(excluding shoulder elevation)	degrees avg over 10 seconds	Ready	8	0	1		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	BFM (TWSTRS)	Neck	Anterocollis at rest	degrees avg over 10 seconds	Ready	4	0	1		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	BFM (TWSTRS)	Neck	retrocollis at rest	degrees avg over 10 seconds	Ready	5	0	1		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	BFM (TWSTRS)	Neck	Lateral shift at rest	present or absent	Ready	absent	absent	0		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	BFM (TWSTRS)	Neck	Sagittal shift at rest	present or absent	Ready	absent	absent	0		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	BFM (TWSTRS)	Neck	rotation sensoy trick 	degrees avg over 10 seconds	Ready	1	0	0		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	BFM (TWSTRS)	Neck	Laterocollis sensory trick(excluding shoulder elevation)	degrees avg over 10 seconds	Ready	5	0	1		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	BFM (TWSTRS)	Neck	Anterocollis sensory trick	degrees avg over 10 seconds	Ready	0	0	0		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	BFM (TWSTRS)	Neck	retrocollis sensory trick	degrees avg over 10 seconds	Ready	0	0	0		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	BFM (TWSTRS)	Neck	max time straight position maintained	sec	Ready	77	100	1		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	BFM	Trunk	antero posterior Angle at hip	degrees avg over 10 seconds	Ready	15	0	2		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	BFM	Trunk	antero-posterior Angle at shoulder	degrees avg over 10 seconds	Ready	10	0	2		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	BFM	Trunk	lateral deviation angle at hip	degrees avg over 10 seconds	Ready	15	0	2		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	BFM	Trunk	lateral deviation angle at shoulders	degrees avg over 10 seconds	Ready	13	0	2		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	BFM	Trunk	movement + antero posterior Angle at hip	degrees avg over 10 seconds	Ready	10	0	2		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	BFM	Trunk	movement + antero-posterior Angle at shoulder	degrees avg over 10 seconds	Ready	11	0	3		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	BFM	Trunk	movement + lateral deviation angle at hip	degrees avg over 10 seconds	Ready	2	0	1		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	BFM	Trunk	movement + lateral deviation angle at shoulders	degrees avg over 10 seconds	Ready	5	0	2		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	BFM	Leg - L	knee angle at rest sitting	degrees avg over 10 seconds	Ready	85	90	0		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	BFM	Leg - L	Ankle inversion-eversion angle at rest sitting	degrees avg over 10 seconds	Ready	1	0	0		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	BFM	Leg - L	Ankle Dorsiflexion angle at rest sitting	degrees avg over 10 seconds	Ready	85	90	0		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	BFM	Leg - R	knee angle at rest sitting	degrees avg over 10 seconds	Ready	87	90	0		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	BFM	Leg - R	Ankle inversion-eversion angle at rest sitting	degrees avg over 10 seconds	Ready	10	0	1		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+20 Jul 2022	BFM	Leg - R	Ankle Dorsiflexion angle at rest sitting	degrees avg over 10 seconds	Ready	75	90	1		Tetrabenazine-PO-40mg-BD, Levodopa-PO-400mg-BD, Baclofen-PO-40mg-BD, Botulinum Toxin-IM-40U-STAT
+25 Nov 2022	UPDRS	Finger tapping - R	Interruption	per 10 sec	Ready	1	0	1		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	UPDRS	Finger tapping - R	Frequency	per 10 sec	Ready	25	30	1		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	UPDRS	Finger tapping - L	Interruption	per 10 sec	Ready	1	0	1		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	UPDRS	Finger tapping - L	Frequency	per 10 sec	Ready	30	30	0		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	UPDRS	facial expression	Eye blink frequency 	per 60 seconds	Ready	15	25	2		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	UPDRS	facial expression	Lips parted distance 	cm	Ready	0.3	0	1		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	UPDRS	hand movements - R	interruption 	per 10 sec	Ready	1	0	2		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	UPDRS	hand movements - R	frequency	per 10 sec	Ready	17	20	2		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	UPDRS	hand movements - R	amplitude	Percentage average	Ready	90%	100	2		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	UPDRS	hand movements - L	interruption 	per 10 sec	Ready	1	0	1		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	UPDRS	hand movements - L	frequency	per 10 sec	Ready	12	20	3		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	UPDRS	hand movements - L	amplitude	Percentage average	Ready	90%	100	2		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	UPDRS	tow tapping -R	interruption 	per 10 seconds	Ready	1	0	1		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	UPDRS	tow tapping - R	frequency	per 10 seconds	Ready	18	20	1		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	UPDRS	tow tapping - R	amplitude (toe to ground)	cm average	Ready	5	6	1		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	UPDRS	tow tapping - L	interruption 	per 10 seconds	Ready	1	0	1		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	UPDRS	tow tapping - L	frequency	per 10 seconds	Ready	18	20	1		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	UPDRS	tow tapping - L	amplitude (toe to ground)	cm average	Ready	5	6	1		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	UPDRS	Pronation supination - R	interruption 	per 10 seconds	Ready	2	0	2		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	UPDRS	Pronation supination - R	frequency	per 10 seconds	Ready	15	20	2		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	UPDRS	Pronation supination - R	amplitude (movement angle covered)	degrees moved average	Ready	160	180	2		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	UPDRS	Pronation supination - L	interruption 	per 10 seconds	Ready	2	0	2		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	UPDRS	Pronation supination - L	frequency	per 10 seconds	Ready	13	20	2		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	UPDRS	Pronation supination - L	amplitude (movement angle covered)	degrees moved average	Ready	150	180	2		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	UPDRS	Leg agility - R	interruption 	per 10 seconds	Ready	3	0	2		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	UPDRS	Leg agility - R	frequency	per 10 seconds	Ready	6	10	2		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	UPDRS	Leg agility - R	amplitude (foot to ground)	cm average	Ready	25	30	2		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	UPDRS	Leg agility - L	interruption 	per 10 seconds	Ready	1	0	1		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	UPDRS	Leg agility - L	frequency	per 10 seconds	Ready	7	10	2		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	UPDRS	Leg agility - L	amplitude (foot to ground)	cm average	Ready	15	30	2		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	UPDRS	Gait	Step time average (steps taken per 10 seconds)	10 seconds	Ready	3	6	2		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	UPDRS	Gait	swing time	per second 	Ready	0.3	0.5	2		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	UPDRS	Gait	step distance	meter	Ready	0.51	0.6	2		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	UPDRS	Gait	freezes	per 10 seconds	Ready	2	0	2		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	UPDRS	posture - after standing	craniovertebral angle	degrees average over 3 seconds 	Ready	125	90-105	2		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	UPDRS	posture - after standing	scoliosis angle	degrees average over 3 seconds 	Ready	15	0	2		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	UPDRS	posture - after standing	kyphosis angle	degrees average over 3 seconds 	Ready	20	0	2		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	UPDRS	posture - sitting 	craniovertebral angle	degrees average over 3 seconds 	Ready	110	90-105	1		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	UPDRS	posture - sitting 	scoliosis angle	degrees average over 3 seconds 	Ready	15	0	2		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	UPDRS	posture - sitting 	kyphosis angle	degrees average over 3 seconds 	Ready	15	0	2		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	UPDRS	tremor - postural - R	amplitude average over 10 second	mm	Ready	3	0	1		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	UPDRS	tremor - postural - L	amplitude average over 10 second	mm	Ready	5	0	1		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	UPDRS	tremor - Kinetic - R	amplitude average over 10 second	mm	Ready	10	0	1		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	UPDRS	tremor - Kinetic - L	amplitude average over 10 second	mm	Ready	10	0	2		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	UPDRS	rest tremor - RA	amplitude average over 10 second	mm	Ready	5	0	1		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	UPDRS	rest tremor - LA	amplitude average over 10 second	mm	Ready	10	0	2		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	UPDRS	rest tremor - LIP	amplitude average over 10 second	mm	Ready	8	0	2		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	UPDRS	rest tremor - JAW	amplitude average over 10 second	mm	Ready	8	0	2		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	UPDRS	Tremor spiral quantification 	correlation	%	Ready	40	0	3		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	UPDRS	speech	cepstral peak performance	ratio	Ready	64	70.1-71	3		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	UPDRS	speech	shimmer	ratio 	Ready	0.08	0.25	3		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	BFM (BSS)	Eye	type of spasm (closure distance mm X duration of spasm) 	average	Ready	10	0	3		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	BFM (BSS)	Eye 	Opening apraxia	present (2) or absent (0)	Ready	0	0	0		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	BFM (BSS)	Eye	Spasm during writing	present (1) or absent (0)	Ready	0	0	0		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	BFM (BSS)	Eye	Duration of complete spasm at rest	sec	Ready	2	0	1		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	BFM (BSS)	Eye	frequency of complete spasm at rest	number per 120 seconds	Ready	3	0	1		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	BFM (BSS)	Eye	frequency of partial spasm at rest	number per 120 seconds	Ready	2	0	1		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	BFM (BSS)	Eye	blinking frequency at rest	number per 120 seconds	Ready	17	15	1		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	BFM (OMDRS)	Mouth	maximal mouth opening	mm	Ready	30	45	1		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	BFM (OMDRS)	Mouth	maximal mouth deviation 	mm	Ready	4	6	1		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	BFM (OMDRS)	Mouth	maximal mouth protrusion	mm	Ready	3	5	1		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	BFM (OMDRS)	Mouth	involuntary mouth opening	mm	Ready	3	0	1		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	BFM (OMDRS)	Mouth	involuntary mouth deviation	mm	Ready	1	0	1		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	BFM (OMDRS)	Mouth	involntary mouth protrusion 	mm	Ready	1	0	1		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	BFM (TWSTRS)	Neck	rotation at rest	degrees avg over 10 seconds	Ready	15	0	1		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	BFM (TWSTRS)	Neck	Laterocollis at rest(excluding shoulder elevation)	degrees avg over 10 seconds	Ready	10	0	1		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	BFM (TWSTRS)	Neck	Anterocollis at rest	degrees avg over 10 seconds	Ready	10	0	1		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	BFM (TWSTRS)	Neck	retrocollis at rest	degrees avg over 10 seconds	Ready	11	0	1		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	BFM (TWSTRS)	Neck	Lateral shift at rest	present or absent	Ready	present	absent	1		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	BFM (TWSTRS)	Neck	Sagittal shift at rest	present or absent	Ready	present	absent	1		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	BFM (TWSTRS)	Neck	rotation sensoy trick 	degrees avg over 10 seconds	Ready	10	0	1		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	BFM (TWSTRS)	Neck	Laterocollis sensory trick(excluding shoulder elevation)	degrees avg over 10 seconds	Ready	5	0	1		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	BFM (TWSTRS)	Neck	Anterocollis sensory trick	degrees avg over 10 seconds	Ready	2	0	0		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	BFM (TWSTRS)	Neck	retrocollis sensory trick	degrees avg over 10 seconds	Ready	2	0	0		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	BFM (TWSTRS)	Neck	max time straight position maintained	sec	Ready	70	100	1		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	BFM	Trunk	antero posterior Angle at hip	degrees avg over 10 seconds	Ready	10	0	1		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	BFM	Trunk	antero-posterior Angle at shoulder	degrees avg over 10 seconds	Ready	14	0	2		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	BFM	Trunk	lateral deviation angle at hip	degrees avg over 10 seconds	Ready	10	0	2		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	BFM	Trunk	lateral deviation angle at shoulders	degrees avg over 10 seconds	Ready	10	0	2		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	BFM	Trunk	movement + antero posterior Angle at hip	degrees avg over 10 seconds	Ready	8	0	2		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	BFM	Trunk	movement + antero-posterior Angle at shoulder	degrees avg over 10 seconds	Ready	9	0	2		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	BFM	Trunk	movement + lateral deviation angle at hip	degrees avg over 10 seconds	Ready	3	0	1		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	BFM	Trunk	movement + lateral deviation angle at shoulders	degrees avg over 10 seconds	Ready	0	0	0		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	BFM	Leg - L	knee angle at rest sitting	degrees avg over 10 seconds	Ready	75	90	1		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	BFM	Leg - L	Ankle inversion-eversion angle at rest sitting	degrees avg over 10 seconds	Ready	5	0	1		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	BFM	Leg - L	Ankle Dorsiflexion angle at rest sitting	degrees avg over 10 seconds	Ready	78	90	1		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	BFM	Leg - R	knee angle at rest sitting	degrees avg over 10 seconds	Ready	66	90	1		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	BFM	Leg - R	Ankle inversion-eversion angle at rest sitting	degrees avg over 10 seconds	Ready	5	0	1		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+25 Nov 2022	BFM	Leg - R	Ankle Dorsiflexion angle at rest sitting	degrees avg over 10 seconds	Ready	75	90	1		Tetrabenazine-PO-25mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-25mg-BD, Botulinum Toxin-IM-45U-STAT
+31 Jan 2023	UPDRS	Finger tapping - R	Interruption	per 10 sec	Ready	5	0	3		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	UPDRS	Finger tapping - R	Frequency	per 10 sec	Ready	13	30	3		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	UPDRS	Finger tapping - L	Interruption	per 10 sec	Ready	3	0	2		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	UPDRS	Finger tapping - L	Frequency	per 10 sec	Ready	12	30	3		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	UPDRS	facial expression	Eye blink frequency 	per 60 seconds	Ready	25	25	0		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	UPDRS	facial expression	Lips parted distance 	cm	Ready	0.3	0	1		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	UPDRS	hand movements - R	interruption 	per 10 sec	Ready	5	0	4		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	UPDRS	hand movements - R	frequency	per 10 sec	Ready	10	20	4		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	UPDRS	hand movements - R	amplitude	Percentage average	Ready	50%	100	4		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	UPDRS	hand movements - L	interruption 	per 10 sec	Ready	4	0	4		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	UPDRS	hand movements - L	frequency	per 10 sec	Ready	8	20	4		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	UPDRS	hand movements - L	amplitude	Percentage average	Ready	45%	100	4		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	UPDRS	tow tapping -R	interruption 	per 10 seconds	Ready	1	0	1		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	UPDRS	tow tapping - R	frequency	per 10 seconds	Ready	20	20	0		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	UPDRS	tow tapping - R	amplitude (toe to ground)	cm average	Ready	6	6	0		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	UPDRS	tow tapping - L	interruption 	per 10 seconds	Ready	1	0	1		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	UPDRS	tow tapping - L	frequency	per 10 seconds	Ready	20	20	0		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	UPDRS	tow tapping - L	amplitude (toe to ground)	cm average	Ready	5	6	1		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	UPDRS	Pronation supination - R	interruption 	per 10 seconds	Ready	2	0	2		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	UPDRS	Pronation supination - R	frequency	per 10 seconds	Ready	13	20	2		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	UPDRS	Pronation supination - R	amplitude (movement angle covered)	degrees moved average	Ready	150	180	3		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	UPDRS	Pronation supination - L	interruption 	per 10 seconds	Ready	2	0	2		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	UPDRS	Pronation supination - L	frequency	per 10 seconds	Ready	20	20	0		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	UPDRS	Pronation supination - L	amplitude (movement angle covered)	degrees moved average	Ready	140	180	4		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	UPDRS	Leg agility - R	interruption 	per 10 seconds	Ready	0	0	0		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	UPDRS	Leg agility - R	frequency	per 10 seconds	Ready	5	10	2		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	UPDRS	Leg agility - R	amplitude (foot to ground)	cm average	Ready	15	30	3		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	UPDRS	Leg agility - L	interruption 	per 10 seconds	Ready	3	0	3		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	UPDRS	Leg agility - L	frequency	per 10 seconds	Ready	5	10	2		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	UPDRS	Leg agility - L	amplitude (foot to ground)	cm average	Ready	14	30	3		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	UPDRS	Gait	Step time average (steps taken per 10 seconds)	10 seconds	Ready	2	6	3		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	UPDRS	Gait	swing time	per second 	Ready	0.8	0.5	2		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	UPDRS	Gait	step distance	meter	Ready	0.2	0.6	3		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	UPDRS	Gait	freezes	per 10 seconds	Ready	3	0	3		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	UPDRS	posture - after standing	craniovertebral angle	degrees average over 3 seconds 	Ready	100	90-105	0		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	UPDRS	posture - after standing	scoliosis angle	degrees average over 3 seconds 	Ready	5	0	0		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	UPDRS	posture - after standing	kyphosis angle	degrees average over 3 seconds 	Ready	30	0	2		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	UPDRS	posture - sitting 	craniovertebral angle	degrees average over 3 seconds 	Ready	115	90-105	1		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	UPDRS	posture - sitting 	scoliosis angle	degrees average over 3 seconds 	Ready	20	0	2		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	UPDRS	posture - sitting 	kyphosis angle	degrees average over 3 seconds 	Ready	15	0	2		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	UPDRS	tremor - postural - R	amplitude average over 10 second	mm	Ready	6	0	3		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	UPDRS	tremor - postural - L	amplitude average over 10 second	mm	Ready	7	0	3		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	UPDRS	tremor - Kinetic - R	amplitude average over 10 second	mm	Ready	10	0	2		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	UPDRS	tremor - Kinetic - L	amplitude average over 10 second	mm	Ready	15	0	3		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	UPDRS	rest tremor - RA	amplitude average over 10 second	mm	Ready	10	0	2		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	UPDRS	rest tremor - LA	amplitude average over 10 second	mm	Ready	10	0	2		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	UPDRS	rest tremor - LIP	amplitude average over 10 second	mm	Ready	0	0	0		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	UPDRS	rest tremor - JAW	amplitude average over 10 second	mm	Ready	0	0	0		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	UPDRS	Tremor spiral quantification 	correlation	%	Ready	50	0	3		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	UPDRS	speech	cepstral peak performance	ratio	Ready	52	70.1-71	3		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	UPDRS	speech	shimmer	ratio 	Ready	0.03	0.25	4		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	BFM (BSS)	Eye	type of spasm (closure distance mm X duration of spasm) 	average	Ready	3	0	1		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	BFM (BSS)	Eye 	Opening apraxia	present (2) or absent (0)	Ready	2	0	2		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	BFM (BSS)	Eye	Spasm during writing	present (1) or absent (0)	Ready	1	0	1		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	BFM (BSS)	Eye	Duration of complete spasm at rest	sec	Ready	2	0	1		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	BFM (BSS)	Eye	frequency of complete spasm at rest	number per 120 seconds	Ready	2	0	1		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	BFM (BSS)	Eye	frequency of partial spasm at rest	number per 120 seconds	Ready	1	0	1		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	BFM (BSS)	Eye	blinking frequency at rest	number per 120 seconds	Ready	23	15	3		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	BFM (OMDRS)	Mouth	maximal mouth opening	mm	Ready	39	45	1		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	BFM (OMDRS)	Mouth	maximal mouth deviation 	mm	Ready	5	6	1		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	BFM (OMDRS)	Mouth	maximal mouth protrusion	mm	Ready	4	5	1		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	BFM (OMDRS)	Mouth	involuntary mouth opening	mm	Ready	1	0	1		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	BFM (OMDRS)	Mouth	involuntary mouth deviation	mm	Ready	1	0	1		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	BFM (OMDRS)	Mouth	involntary mouth protrusion 	mm	Ready	1	0	1		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	BFM (TWSTRS)	Neck	rotation at rest	degrees avg over 10 seconds	Ready	8	0	1		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	BFM (TWSTRS)	Neck	Laterocollis at rest(excluding shoulder elevation)	degrees avg over 10 seconds	Ready	5	0	1		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	BFM (TWSTRS)	Neck	Anterocollis at rest	degrees avg over 10 seconds	Ready	5	0	1		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	BFM (TWSTRS)	Neck	retrocollis at rest	degrees avg over 10 seconds	Ready	5	0	1		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	BFM (TWSTRS)	Neck	Lateral shift at rest	present or absent	Ready	present	absent	1		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	BFM (TWSTRS)	Neck	Sagittal shift at rest	present or absent	Ready	present	absent	1		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	BFM (TWSTRS)	Neck	rotation sensoy trick 	degrees avg over 10 seconds	Ready	3	0	1		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	BFM (TWSTRS)	Neck	Laterocollis sensory trick(excluding shoulder elevation)	degrees avg over 10 seconds	Ready	3	0	1		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	BFM (TWSTRS)	Neck	Anterocollis sensory trick	degrees avg over 10 seconds	Ready	4	0	1		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	BFM (TWSTRS)	Neck	retrocollis sensory trick	degrees avg over 10 seconds	Ready	10	0	2		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	BFM (TWSTRS)	Neck	max time straight position maintained	sec	Ready	85	100	1		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	BFM	Trunk	antero posterior Angle at hip	degrees avg over 10 seconds	Ready	15	0	2		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	BFM	Trunk	antero-posterior Angle at shoulder	degrees avg over 10 seconds	Ready	14	0	2		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	BFM	Trunk	lateral deviation angle at hip	degrees avg over 10 seconds	Ready	11	0	3		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	BFM	Trunk	lateral deviation angle at shoulders	degrees avg over 10 seconds	Ready	0	0	0		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	BFM	Trunk	movement + antero posterior Angle at hip	degrees avg over 10 seconds	Ready	15	0	2		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	BFM	Trunk	movement + antero-posterior Angle at shoulder	degrees avg over 10 seconds	Ready	13	0	3		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	BFM	Trunk	movement + lateral deviation angle at hip	degrees avg over 10 seconds	Ready	10	0	3		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	BFM	Trunk	movement + lateral deviation angle at shoulders	degrees avg over 10 seconds	Ready	10	0	3		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	BFM	Leg - L	knee angle at rest sitting	degrees avg over 10 seconds	Ready	85	90	0		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	BFM	Leg - L	Ankle inversion-eversion angle at rest sitting	degrees avg over 10 seconds	Ready	5	0	1		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	BFM	Leg - L	Ankle Dorsiflexion angle at rest sitting	degrees avg over 10 seconds	Ready	80	90	1		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	BFM	Leg - R	knee angle at rest sitting	degrees avg over 10 seconds	Ready	89	90	0		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	BFM	Leg - R	Ankle inversion-eversion angle at rest sitting	degrees avg over 10 seconds	Ready	4	0	1		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
+31 Jan 2023	BFM	Leg - R	Ankle Dorsiflexion angle at rest sitting	degrees avg over 10 seconds	Ready	75	90	1		Tetrabenazine-PO-30mg-BD, Levodopa-PO-450mg-BD, Baclofen-PO-30mg-BD, Botulinum Toxin-IM-40U-STAT
